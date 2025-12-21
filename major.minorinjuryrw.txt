@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Run/Walk Program Selector — Chevron View</title>
+<style>
+  :root{
+    --pink:#ffd9e6;
+    --blue:#cfeaff;
+    --accent:#77aadd;
+    --card:#ffffff;
+    --muted:#666;
+    --radius:12px;
+    --shadow: 0 6px 20px rgba(20,30,60,0.08);
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial;
+  }
+
+  /* enforce font everywhere */
+  *{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial !important;box-sizing:border-box}
+
+  body{
+    margin:0;
+    padding:28px;
+    background: linear-gradient(180deg,var(--pink),#f7fbff);
+    color:#222;
+  }
+
+  .container{max-width:1100px;margin:0 auto}
+  header{display:flex;align-items:center;justify-content:space-between;gap:12px}
+  h1{margin:0;color:#b23f6a;font-weight:700}
+  .subtitle{color:var(--muted);font-size:13px;margin-top:6px}
+
+  .controls{display:flex;gap:12px;align-items:center}
+  select, button { font-family:inherit; font-size:14px }
+
+  button.primary{
+    background:linear-gradient(90deg,var(--accent),#8fc2e8);
+    border:none;color:white;padding:10px 14px;border-radius:10px;cursor:pointer;
+    box-shadow: none;
+  }
+  button.ghost{
+    background:white;border:1px solid rgba(0,0,0,0.06);padding:8px 12px;border-radius:8px;cursor:pointer;
+  }
+
+  .card{background:var(--card);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow);margin-top:18px}
+  .grid{display:grid;grid-template-columns:1fr 380px;gap:18px;margin-top:16px}
+  @media (max-width:980px){.grid{grid-template-columns:1fr}}
+
+  /* Program selector panel */
+  .selector-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  label.small{font-size:13px;color:var(--muted)}
+
+  /* Chevron / collapsible list */
+  .prog-list{display:flex;flex-direction:column;gap:12px;max-height:64vh;overflow:auto;padding-right:6px}
+  .prog{border-radius:12px;overflow:hidden;border:1px solid rgba(0,0,0,0.06)}
+  .prog .head{
+    display:flex;align-items:center;justify-content:space-between;padding:14px 16px;
+    background:linear-gradient(90deg,var(--blue),#fef0f7);
+    cursor:pointer;position:relative;
+  }
+  .prog .head h3{margin:0;font-size:16px;color:#8b2d4a}
+  .chev{
+    width:36px;height:36px;border-radius:8px;background:white;display:flex;align-items:center;justify-content:center;
+    box-shadow:0 4px 12px rgba(0,0,0,0.04);font-weight:700;color:#4b6b88;
+    transition:transform .18s ease;
+  }
+  .prog.open .chev{ transform: rotate(90deg); }
+
+  .prog .body{padding:14px;background:linear-gradient(180deg,#fff,#f9fbff);display:none}
+  .week{border-radius:8px;padding:10px;margin-bottom:10px;background:rgba(240,248,255,0.6);}
+  .week h4{margin:0 0 8px 0}
+  table{width:100%;border-collapse:collapse}
+  th,td{font-size:13px;padding:8px;border-bottom:1px solid rgba(0,0,0,0.04);text-align:left}
+  th{font-weight:600;padding-left:0}
+
+  .muted{color:var(--muted);font-size:13px}
+  .note{font-size:13px;color:#345; margin-top:6px}
+
+  /* small helpers */
+  .program-meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .tag{background:#fff;padding:6px 8px;border-radius:8px;border:1px solid rgba(0,0,0,0.05);font-size:13px}
+</style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1>Return-to-Running Program Selector</h1>
+        <div class="subtitle">Programs from The Running Clinic and Blaise Dubois PT. App created by Walden Cheung PT.</div>
+      </div>
+      <div class="controls">
+        <div class="selector-row">
+          <label class="small" for="profile">Profile</label>
+          <select id="profile" aria-label="Profile select">
+            <option value="minorInjury">Minor Injury (≈3 weeks)</option>
+            <option value="majorInjury">Major Injury (≈8 weeks)</option>
+            <option value="eliteAthlete">Elite Athlete (2 weeks)</option>
+          </select>
+          <button class="primary" id="showBtn">Show Program</button>
+          <button class="ghost" id="resetBtn">Reset</button>
+        </div>
+      </div>
+    </header>
+
+    <div class="grid">
+      <main>
+        <div class="card" id="programPanel">
+          <div id="programHeader" style="display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <h2 id="progTitle" style="margin:0">Select a profile to preview</h2>
+              <div class="muted" id="progSubtitle">Programs rendered as chevrons — expand a week to view days.</div>
+            </div>
+            <div class="program-meta">
+              <div class="tag" id="weeksCount">—</div>
+            </div>
+          </div>
+
+          <div style="margin-top:12px" id="progContent">
+            <div class="muted">No program selected yet. Click <strong>Show Program</strong>.</div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+<script>
+  /***********************
+   * Program data (converted into week -> day rows)
+   *
+   * Using the sample data you provided earlier.
+   ***********************/
+  const PROGRAMS = {
+    minorInjury: {
+      meta: { title: 'Minor Injury Program', weeks: 3 },
+      weeks: {
+        1: [
+          { label:'Day 1', total:10, run:1, walk:1 },
+          { label:'Day 2', total:15, run:1, walk:1 },
+          { label:'Day 3', total:20, run:1, walk:1 },
+          { label:'Day 4', total:25, run:1, walk:1 },
+          { label:'Day 5', total:30, run:1, walk:1 }
+        ],
+        2: [
+          { label:'Day 1', total:20, run:2, walk:1 },
+          { label:'Day 2', total:30, run:2, walk:1 },
+          { label:'Day 3', total:20, run:3, walk:1 },
+          { label:'Day 4', total:30, run:3, walk:1 },
+          { label:'Day 5', total:20, run:4, walk:1 }
+        ],
+        3: [
+          { label:'Day 1', total:30, run:4, walk:1 },
+          { label:'Day 2', total:20, run:9, walk:1 },
+          { label:'Day 3', total:30, run:9, walk:1 },
+          { label:'Day 4', total:30, run:14, walk:1 },
+          { label:'Day 5', total:30, run:30, walk:0 }
+        ]
+      }
+    },
+
+    eliteAthlete: {
+      meta: { title:'Elite Athlete Program', weeks: 2 },
+      weeks: {
+        1: [
+          { label:'Day 1', total:10, run:1, walk:1 },
+          { label:'Day 2', total:15, run:2, walk:1 },
+          { label:'Day 3', total:20, run:3, walk:1 },
+          { label:'Day 4', total:25, run:4, walk:1 },
+          { label:'Day 5', total:30, run:9, walk:1 }
+        ],
+        2: [
+          { label:'Day 1', total:35, run:9, walk:1 },
+          { label:'Day 2', total:45, run:14, walk:1 },
+          { label:'Day 3', total:20, run:20, walk:0 },
+          { label:'Day 4', total:50, run:9, walk:1 },
+          { label:'Day 5', total:60, run:14, walk:1 }
+        ]
+      }
+    },
+
+    majorInjury: {
+      meta: { title:'Major Injury Program', weeks: 8 },
+      weeks: {
+        1:[
+          { label:'Day 1', total:6, run:1, walk:1 },
+          { label:'Day 2', total:8, run:1, walk:1 },
+          { label:'Day 3', total:10, run:1, walk:1 },
+          { label:'Day 4', total:12, run:1, walk:1 },
+          { label:'Day 5', total:14, run:1, walk:1 }
+        ],
+        2:[
+          { label:'Day 1', total:16, run:1, walk:1 },
+          { label:'Day 2', total:18, run:1, walk:1 },
+          { label:'Day 3', total:20, run:1, walk:1 },
+          { label:'Day 4', total:22, run:1, walk:1 },
+          { label:'Day 5', total:24, run:1, walk:1 }
+        ],
+        3:[
+          { label:'Day 1', total:26, run:1, walk:1 },
+          { label:'Day 2', total:28, run:1, walk:1 },
+          { label:'Day 3', total:30, run:1, walk:1 },
+          { label:'Day 4', total:9,  run:2, walk:1 },
+          { label:'Day 5', total:12, run:2, walk:1 }
+        ],
+        4:[
+          { label:'Day 1', total:15, run:2, walk:1 },
+          { label:'Day 2', total:18, run:2, walk:1 },
+          { label:'Day 3', total:21, run:2, walk:1 },
+          { label:'Day 4', total:24, run:2, walk:1 },
+          { label:'Day 5', total:27, run:2, walk:1 }
+        ],
+        5:[
+          { label:'Day 1', total:30, run:2, walk:1 },
+          { label:'Day 2', total:12, run:3, walk:1 },
+          { label:'Day 3', total:16, run:3, walk:1 },
+          { label:'Day 4', total:20, run:3, walk:1 },
+          { label:'Day 5', total:24, run:3, walk:1 }
+        ],
+        6:[
+          { label:'Day 1', total:28, run:3, walk:1 },
+          { label:'Day 2', total:32, run:3, walk:1 },
+          { label:'Day 3', total:10, run:4, walk:1 },
+          { label:'Day 4', total:15, run:4, walk:1 },
+          { label:'Day 5', total:20, run:4, walk:1 }
+        ],
+        7:[
+          { label:'Day 1', total:25, run:4, walk:1 },
+          { label:'Day 2', total:30, run:4, walk:1 },
+          { label:'Day 3', total:10, run:9, walk:1 },
+          { label:'Day 4', total:20, run:9, walk:1 },
+          { label:'Day 5', total:30, run:9, walk:1 }
+        ],
+        8:[
+          { label:'Day 1', total:15, run:14, walk:1 },
+          { label:'Day 2', total:30, run:14, walk:1 },
+          { label:'Day 3', total:20, run:20, walk:0 },
+          { label:'Day 4', total:25, run:25, walk:0 },
+          { label:'Day 5', total:30, run:30, walk:0 }
+        ]
+      }
+    }
+  };
+
+  /***********************
+   * Utilities
+   ***********************/
+  function calculateReps(total, run, walk){
+    const seg = run + walk;
+    if(seg <= 0) return '—';
+    // if walk === 0 (continuous run), interpret reps = 1 (single continuous run block)
+    if(walk === 0) return '1';
+    const segments = Math.floor(total / seg);
+    return segments;
+  }
+
+  /***********************
+   * Render helpers
+   ***********************/
+  const showBtn = document.getElementById('showBtn');
+  const resetBtn = document.getElementById('resetBtn');
+  const profileSelect = document.getElementById('profile');
+  const progContent = document.getElementById('progContent');
+  const progTitle = document.getElementById('progTitle');
+  const progSubtitle = document.getElementById('progSubtitle');
+  const weeksCount = document.getElementById('weeksCount');
+  const summaryList = document.getElementById('summaryList');
+
+  showBtn.addEventListener('click', ()=> renderProgram(profileSelect.value));
+  resetBtn.addEventListener('click', resetAll);
+
+  function resetAll(){
+    profileSelect.value = 'minorInjury';
+    progTitle.textContent = 'Select a profile to preview';
+    progSubtitle.textContent = 'Programs rendered as chevrons — expand a week to view days.';
+    weeksCount.textContent = '—';
+    progContent.innerHTML = '<div class="muted">No program selected yet. Click <strong>Show Program</strong>.</div>';
+  }
+
+  function renderProgram(key){
+    const program = PROGRAMS[key];
+    if(!program) return;
+    const title = program.meta.title;
+    const totalWeeks = program.meta.weeks;
+
+    // header
+    progTitle.textContent = title;
+    progSubtitle.textContent = `This program contains ${totalWeeks} structured week${totalWeeks>1?'s':''}. Expand a week to view days.`;
+    weeksCount.textContent = `${totalWeeks} wk${totalWeeks>1?'s':''}`;
+
+    // build chevrons (one card per week)
+    progContent.innerHTML = '';
+
+    for(let wk = 1; wk <= totalWeeks; wk++){
+      const weekData = program.weeks[wk] || [];
+      const progDiv = document.createElement('div');
+      progDiv.className = 'prog';
+      progDiv.innerHTML = `
+        <div class="head" data-week="${wk}">
+          <h3>Week ${wk}</h3>
+          <div class="chev">›</div>
+        </div>
+        <div class="body" id="week-body-${wk}">
+          ${ renderWeekTable(weekData) }
+        </div>
+      `;
+      // attach open/close listener
+      progDiv.querySelector('.head').addEventListener('click', ()=> {
+        const isOpen = progDiv.classList.contains('open');
+        // close all siblings
+        document.querySelectorAll('.prog').forEach(p => { p.classList.remove('open'); p.querySelector('.body').style.display = 'none'; });
+        if(!isOpen){
+          progDiv.classList.add('open');
+          progDiv.querySelector('.body').style.display = 'block';
+          // smooth scroll into view
+          setTimeout(()=> progDiv.scrollIntoView({behavior:'smooth', block:'center'}), 120);
+        } else {
+          progDiv.classList.remove('open');
+          progDiv.querySelector('.body').style.display = 'none';
+        }
+      });
+      progContent.appendChild(progDiv);
+
+    }
+  }
+
+  function renderWeekTable(weekRows){
+    if(!weekRows || weekRows.length === 0){
+      return `<div class="muted">No structured days for this week.</div>`;
+    }
+    let html = `<div class="week"><h4>Week overview</h4><table><thead><tr><th>Day</th><th>Total Time</th><th>Run / Walk</th><th>Reps</th></tr></thead><tbody>`;
+    weekRows.forEach(r => {
+      const runWalk = (r.walk === 0) ? `${r.run} min continuous run` : `Run ${r.run} min / Walk ${r.walk} min`;
+      const reps = calculateReps(r.total, r.run, r.walk);
+      html += `<tr><td>${r.label}</td><td>${r.total} min</td><td>${runWalk}</td><td>${reps}</td></tr>`;
+    });
+    html += `</tbody></table></div>`;
+    return html;
+  }
+
+  // initial reset view
+  resetAll();
+
+  // small accessibility: allow Enter to trigger show
+  profileSelect.addEventListener('keydown', (e) => { if(e.key === 'Enter'){ renderProgram(profileSelect.value); } });
+
+</script>
+</body>
+</html>
