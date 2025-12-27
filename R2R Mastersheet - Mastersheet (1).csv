@@ -1,1438 +1,179 @@
-Region,Sub-region,Pathology,Tissue,Key Diagnostic Tests,Treatment Notes,Exercises,Program,,,,,
-Foot,Dorsal Foot,Metatarsal Stress Fracture,Periosteum,"-Focal pain on palpation
--Fulcrum test
--Pain on hop-test","-Rule out high risk stress (2nd & 5th)
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Foot,Dorsal Foot,Great Sesamoid Stress Fracture,Periosteum,"-Focal pain on deep plantar palpation
--Fulcrum test
--Pain on hop-test, hallucis dorsiflexion","-Refer out to physician immediately
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Foot,Plantar Foot,Navicular Stress Fracture,Periosteum,"-May be difficult to palpate as it often presents as a deep ankle pain in weight-bearing
--Pain on hop-test
--Thorough running history","-Refer out to physician immediately
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Foot,Plantar Foot,Talus Stress Fracture,Periosteum,"-May be difficult to palpate as it often presents as a deep ankle pain in weight-bearing
--Pain on hop-test
--Thorough running history","-Refer out to physician immediately
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Foot,Posterior Heel Pain,Calcaneal Stress Fracture,Periosteum,"-Focal pain on palpation
--Pain on heel-drop test or percussive test
--Thorough running history","- Low-risk fracture managed with activity modification
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Leg,Anterolateral Leg,Ankle Fracture,Periosteum,"-Ottawa Ankle Rules: 4 steps, bony pain on bilateral malleoli, base of the 5th, navicular","-~6-10 wks NWB,
--Imaging + obtain WB clearance from physician
--Stregnthen other muscles ASAP (prox hip, knee, upper limb)
--Volume first before speed/intensity","-Active Ankle ROM
--Banded ankle plantarflexion, inversion, eversion, dorsiflexion
--Heel raises
--Single leg balance",majorInjury,,,,,
-Leg,Anterolateral Leg,Medial Tibial Stress Syndrome,Periosteum,"-Widespread pain upon palpating tibia
--Running history: warm-up effect, low frequency of running but long duration
--Running assessment: high foot strike angle, low cadence, overstriding
--Runners will often push themselves through this so presentation is likely more severe and calcitrant.","-Run-walk intervals takes precedence over exercises. 0/10 pain.
--Increase frequency & volume before speed
--Practice minimizing stride length, running softly and having a smaller stack and drop on shoes",-A skips,minorInjury,,,,,
-Leg,Anterolateral Leg,Anterolateral Tibial Stress Fracture,Periosteum,"-Focal pain on palpation
--Fulcrum test
--Muscle herniations
--Pain on hop-test","-Refer out to physician immediately
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Leg,Posteromedial Leg,Posteromedial Tibial Stress Fracture,Periosteum,"-Focal pain on palpation
--Fulcrum test
--Muscle herniations
--Pain on hop-test","-Rule out high risk stress fractures
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",minorInjury,,,,,
-Knee,Anterior Knee Pain,"Fracture of the patella, femur, tibia, fibula",Periosteum,"-Ottawa Knee Rules: Over 55, 4 steps, can't bend knee to 90 degrees, bony pain on head of fibula, patella.","-~8-12 wks NWB,
--Imaging + obtain WB clearance from physician
--Stregnthen other muscles ASAP (prox hip, knee, upper limb)
--Volume first before speed/intensity","-Active Ankle ROM
--Banded ankle plantarflexion, inversion, eversion, dorsiflexion
--Heel raises
--Single leg balance",majorInjury,,,,,
-Knee,Lateral Knee Pain,"Fracture of the patella, femur, tibia, fibula",Periosteum,"-Ottawa Knee Rules: Over 55, 4 steps, can't bend knee to 90 degrees, bony pain on head of fibula, patella.","-~8-12 wks NWB,
--Imaging + obtain WB clearance from physician
--Stregnthen other muscles ASAP (prox hip, knee, upper limb)
--Volume first before speed/intensity","-Active Ankle ROM
--Banded ankle plantarflexion, inversion, eversion, dorsiflexion
--Heel raises
--Single leg balance",majorInjury,,,,,
-Knee,Anterior Knee Pain,Patellar Stress Fracture,Periosteum,"-Focal pain on palpation
--Fulcrum test
--Muscle herniations
--Pain on hop-test","-Refer out to physician immediatelyy
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Hip & Groin,Anterior Hip,Femoral Neck Stress Fracture,Periosteum,"-Running history is key
--Fulcrum test
--Pain on hop-test","-Refer out to physician immediately
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride
--Explain complications as clients often continue to run and compete despite pain","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Hip & Groin,Anterior Hip,"Ilium and Pubis Stress Fractures",Periosteum,"-Focal pain on palpation
--Pain on heel-drop test or percussive test
--Thorough running history
--Caution for AIIS apophyseal avulsion fractures in adolescents","- Low-risk fracture: refer immediately if there are neurological symptoms or severe pain
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Hip & Groin,Thigh,Femoral Diaphysis Stress Fracture,Periosteum,"-Running history is key
--Fulcrum test
--Pain on hop-test","-Refer out to physician immediately
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Hip & Groin,Lateral Hip,Greater Trochanter Pain Syndrome,Mixed,"-Dx includes bursaopathy and tendinopathy of the glute medius
--Painful palpation and compression along greater trochanter
--Single leg stance
--Pain on resisted hip abduction","-Focus on minimizing provoking positions (crossed legs)
--Assess if excessive hip adduction in running is a factor
--Rehab can push to 3/10 pain
--Focus on plyometrics
--Volume and hills first before speed/intensity
--If no improvement physicians may suggest cortisone: explain risks and promote rehab over injections.","-Side Lying Hip Abduction, Banded Crab Walks, Split Squat, Single Leg Squat
-- Plyometrics: A-skips, C-skips, Bounding",minorInjury,,,,,
-Hip & Groin,Pubalgia,Pubis Stress Fracture,Periosteum,"-Focal pain on palpation
--Pain on heel-drop test or percussive test
--Thorough running history","- Low-risk fracture: refer immediately if there are neurological symptoms or severe pain
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Hip & Groin,Posterior Hip,Sacral Stress Fractures,Periosteum,"-Focal pain on palpation
--Pain on heel-drop test or percussive test
--Thorough running history","- Low-risk fracture: refer immediately if there are neurological symptoms or severe pain
--Rule out RED-S
--Rehab should have 0 pain
--Volume first before speed/intensity
--Assess footwear and stride","-Multidirectional heavy resistance exercises: Squats, Lunges...etc
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Pediatric,Pediatric,Legg-Calve-Perthes,Periosteum,"-Typically presents as hip pain in child 4-8 years
-- Antalgic gait
-- Restricted abduction/internal rotation.","-Urgent referral to surgical consultation for containment.
--0 pain if planning to start running and having impact sports again.
--Strengthen peripheral hip and lumbo-pelvic muscles.","-Side Lying Hip Abduction, Banded Crab Walks, Split Squat, Single Leg Squat
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Pediatric,Pediatric,Slipped Capital Femoral Epiphysis,Cartilage,-Typically obsese adolescent with antalgic gait and restricted internal rotation.,"-Urgent referral if you are diagnosing the initial complaint.
--Sports-Med Consult for Plan, Repeat Imaging
--0 pain during return to running","-Side Lying Hip Abduction, Banded Crab Walks, Split Squat, Single Leg Squat
-- Plyometrics: A-skips, C-skips, Bounding",majorInjury,,,,,
-Pediatric,Pediatric,Osgood-Schlatter Syndrome,Tendon,"-Pain with kneeling, deep squats
--Painful palpation along tibial tubercle","-Referral only needed if avulsion suspected or refractory
-- Education: Tibial tubercle apophysitis, bump is not harmful
--Avoid loaded knee flexion past 60 degrees
-- Focus on capacity instead of load as it is often difficult to maintain a healthy load management and social schedule for adolescents in school","-Biking
--Straight leg raise
--Spanish squats to 45 degrees
--Standing hip abduction, banded-crab walks",minorInjury,,,,,
-Foot,Plantar Heel,Fat Pad Syndrome,Fat Pad,"-Important to differentiate from calcaneal stress fracture, as fat tissue is highly innervated.","-Offloading with heel cups or taping to desensitize may help (unclear of management)
--Heel taping
--0/10 pain
--Volume before speed
--Uphill before downill",,minorInjury,,,,,
-Foot,Posterior Heel Pain,Retrocalcaneal Bursaopathy,Bursa,"-Palpation helps differentiate between tendinopathy
--Painful compression in dorsiflexion
--Pain on resisted plantarflexion",-Usually identify source of compression as it may often be a shoe or a terrain issue with too much dorisflexion.,"Cycling 15-30 min",minorInjury,,,,,
-Knee,Anterior Knee Pain,Fat Pad Syndrome,Fat Pad,"-Infrapatellar fat pad is very sensitive to pain in quick knee extension in passive range
-- May be preceded by trauma","-Focus on quadriceps strengthening to assist with desensitization
-- Assess stride to see if that is affecting pain
--0/10 pain
--Volume before speed
--Uphill before downill","Unclear efficacy
--Banded straight leg raise
--Spanish squats
--Leg press",minorInjury,,,,,
-Knee,Anterior Knee Pain,Prepatella Bursaopathy,Bursa,"-Painful palpation
--Passive knee flexion
--Resisted extension at 120 degrees","-Avoid hopping and impact, and deep flexion squats.","Cycling 15-30 min
--Banded straight leg raise
--Spanish squats
--Leg press",minorInjury,,,,,
-Knee,Lateral Knee Pain,Fat Pad Syndrome,Fat Pad,"-Infrapatellar fat pad is very sensitive to pain in quick knee extension in passive range
-- May be preceded by trauma","-Focus on quadriceps strengthening to assist with desensitization
-- Assess stride to see if that is affecting pain
--0/10 pain
--Volume before speed
--Uphill before downill","Unclear efficacy
--Banded straight leg raise
--Spanish squats
--Leg press",minorInjury,,,,,
-Knee,Lateral Knee Pain,Lateral Bursaopathy,Bursa,May be a directional issue on the camber for track athletes, hip adduction during running.,"-May be a directional issue on the camber for track athletes, hip adduction during running
--Introduce trails on flat, before progressing to uphill and downhill.
--Speed can precede volume in this injury","Cycling 15-30 min
--Banded straight leg raise
--Spanish squats
--Leg press",minorInjury,,,,,
-Foot,Dorsal Foot,Inter-Metatarsal Pain,Cartilage,"-Painful palpation on MTP joint spaces
--Painful with toe walking","-Assess shoe's toe box to see if it is too narrow
--Increase forefoot joint mobility","-Barefoot walking
--Barefoot hopping
--Barefoot running",minorInjury,,,,,
-Foot,Plantar Heel,Talocalcaneal Joint Pain,Cartilage,"-Pain in inversion and eversion
--Heel percussion test","-Activity modification avoiding forced plantarflexion during trail running
--May have had previous persistent ligament laxity
--May need to consult surgical opinion if refractory
--Volume before speed","-Single leg stand on uneven surface
--Banded inversion eversion
--Ankle bounces
--A-skip
--Bounding",majorInjury,,,,,
-Foot,Posterior Heel Pain,Posterior Ankle Impingement,Cartilage,"-Posterior ankle pain with plantarflexion
--Heel thrust test","-Modify activities first to avoid irritating cartilage ie downhills, aggressive plantar flexion
--Surgical and imaging referral if refractory to 3-6 months conservative care
--Volume before speed","-Single leg stand on uneven surface
--Banded inversion eversion
--Ankle bounces
--A-skip
--Bounding",majorInjury,,,,,
-Knee,Anterior Knee Pain,Tibiofemoral Arthritis,Cartilage,"-Hypertrophic changes in knee observed
--Reduced range in flexion and extension
--Subjective history","-Avoid hopping and impact, and deep flexion squats
--Promote cycling, progress with running drills before running
--Swelling via swipe test may be an indicator of overloading the structures during a session
--Volume before speed
--Run/Walk Intervals","-Straight leg raise
--Hip Abduction
--Spanish squats
--Decline squats",majorInjury,,,,,
-Knee,Anterior Knee Pain,Meniscus Injury,Cartilage,"-Limited knee flexion and crouching
--Thessaly's Test
--Painful palpation","-Make sure to help client understand between age-related meniscal tears (horizontal, asymptomatic) vs traumatic (ie bucket handle radial, that are symptomatic)
-- Do not hesistate to refer for Sports MD consult and imaging if symptoms do not improve in 2-3 weeks of treatment and locking-catching symptoms persist.
--Volume before speed
--Run/Walk Interavals","-Straight leg raise
--Hip Abduction
--Spanish squats
--Decline squats",majorInjury,,,,,
-Knee,Medial Knee Pain,Patellofemoral Pain,Mixed,"-Painful palpation
--Resisted knee extension 30-60 degrees
--Pain with sitting or with stairs","-Assess stride, cadence and foot strike angle
--Volume before speed
--Taping may be helpful","-Spanish squats
--Banded Crab Walks
--Lunges
--A-Skips
--Bounding",minorInjury,,,,,
-Knee,Medial Knee Pain,Medial Patella Plica Syndrome,Cartilage,"-Rare injury and overdiagnosed
--Medial Patella Plica Test (knee flexion + shift patella medially and pinch plica)
--Often from blunt trauma","-Initially protect by avoiding painful knee ranges
--Desensitize with exercises and then progress with loading (?)
--Volume before speed
--Assess stride","-15 to 30 min of cycling
--Banded Crab Walks
--Lunges
--A-Skips
--Bounding",majorInjury,,,,,
-Knee,Medial Knee Pain,Medial Meniscus Injury,Cartilage,"-Limited knee flexion and crouching
--Thessaly's Test
--Painful palpation","-Make sure to help client understand between age-related meniscal tears (horizontal, asymptomatic) vs traumatic (ie bucket handle radial, that are symptomatic)
-- Do not hesistate to refer for Sports MD consult and imaging if symptoms do not improve in 2-3 weeks of treatment and locking-catching symptoms persist.
--Volume before speed
--Run/Walk Interavals
--2/10 pain
--No swelling and resolution of symptoms within 60 min of run","-Straight leg raise
--Hip Abduction
--Spanish squats
--Decline squats",majorInjury,,,,,
-Knee,Medial Knee Pain,Tibiofemoral Arthritis,Cartilage,"-Hypertrophic changes in knee observed
--Reduced range in flexion and extension
--Subjective history","-Avoid hopping and impact, and deep flexion squats
--Promote cycling, progress with running drills before running
--Swelling via swipe test may be an indicator of overloading the structures during a session","-Straight leg raise
--Hip Abduction
--Spanish squats
--Decline squats",majorInjury,,,,,
-Knee,Posterior Knee Pain,Baker's Cyst,Cartilage,"-Foucher's Sign
--Large cyst observed in posterior knee
--Painful palpation","-Investigate root cause of cyst, synovial outpouching related to joint.",-15 to 30 min of cycling,majorInjury,,,,,
-Knee,Lateral Knee Pain,Lateral Meniscus Injury,Cartilage,"-Limited knee flexion and crouching
--Thessaly's Test
--Painful palpation","-Make sure to help client understand between age-related meniscal tears (horizontal, asymptomatic) vs traumatic (ie bucket handle radial, that are symptomatic)
-- Do not hesistate to refer for Sports MD consult and imaging if symptoms do not improve in 2-3 weeks of treatment and locking-catching symptoms persist.
--Volume before speed
--Run/Walk Interavals
--2/10 pain
--No swelling and resolution of symptoms within 60 min of run","-Straight leg raise
--Hip Abduction
--Spanish squats
--Decline squats",majorInjury,,,,,
-Hip & Groin,Anterior Hip,Femoral Acetabular Impingement,Cartilage,"-Running history
--Imaging
--Reduced internal rotation and FADDIR","-Progress with running and exercises that are symptom free and not within impingement positions
--Referral for surgical/sport MD consult if activity-limiting symptoms despite PT
--No strong relationship between FAI and hip-OA but avoid pain provoking movements if able.
--Avoid hills in beginning of return-to-running","-Supine banded hip flexion
--Standing banded hip flexion
--Prone  banded hip flexion
-- A-skips",majorInjury,,,,,
-Hip & Groin,Anterior Hip,Coxofemoral Arthritis,Cartilage,"-Pain limited range for internal rotation, flexion and abduction
--Subjective history for gradual onset, morning stiffness
--FABER, FADDIR","-Monitor for restricted range of motion after activity and running
--Caution for impact, and deep flexion, internal rotation and adduction of hip.
--2/10 pain
--No swelling and resolution of symptoms within 60 min of run","-Standing Hip abduction
--Standing Hip extension
--Banded Crab-Walks
--Banded Hip Flexion Standing",majorInjury,,,,,
-Hip & Groin,Thigh,Coxofemoral Arthritis,Cartilage,"-Pain limited range for internal rotation, flexion and abduction
--Subjective history for gradual onset, morning stiffness
--FABER, FADDIR","-Monitor for restricted range of motion after activity and running
--Caution for impact, and deep flexion, internal rotation and adduction of hip.
--2/10 pain
--No swelling and resolution of symptoms within 60 min of run","-Standing Hip abduction
--Standing Hip extension
--Banded Crab-Walks
--Banded Hip Flexion Standing",majorInjury,,,,,
-Hip & Groin,Lateral Hip,Coxofemoral Arthritis,Cartilage,"-Pain limited range for internal rotation, flexion and abduction
--Subjective history for gradual onset, morning stiffness
--FABER, FADDIR","-Monitor for restricted range of motion after activity and running
--Caution for impact, and deep flexion, internal rotation and adduction of hip.
--2/10 pain
--No swelling and resolution of symptoms within 60 min of run","-Standing Hip abduction
--Standing Hip extension
--Banded Crab-Walks
--Banded Hip Flexion Standing",majorInjury,,,,,
-Hip & Groin,Pubalgia,Pubic symphysitis,Cartilage,"-Painful palpation on pubis
--Resisted adduction
--Gaenslen Test","-Monitor during pregnancy and post-partum
--Focus on core stabilizing exercises and progress them to functional exercises
--0/10 pain","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",majorInjury,,,,,
-Hip & Groin,Posterior Hip,Sacroiliac pain,Cartilage,"-Painful palpation
--Thigh Thrust
--FABER","-Monitor during pregnancy and post-partum.
--Focus on core stabilizing exercises and progress them to functional exercises
--0/10 pain","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",majorInjury,,,,,
-Foot,Plantar Foot,Midfoot Sprain,Ligament,"-Painful palpation on T-MT joints
--Painful hopping and weight bearing
--Ecchymosis on plantarfoot","-Likely will need a brace
--Query 6-8 weeks of rehabilitation
--Progress from static stability, to dynamic and plyometric stability
--Maintain mobility of mid-foot joints","-Plantarflexion isometric
--Heel raises
--Walk/Hop Barefoot
--Running Drills
--Bounding",majorInjury,,,,,
-Leg,Anterolateral Leg,Ankle Syndesmosis Sprain,Ligament,"-Squeeze Test
--Painful palpation
--Dorsiflexion + External Rotation Test","-Focus on ankle stability on unstable surfaces
--Progress if no feeling of instability
--2/10 pain acceptable
--Progress on flat surfaces before hills
--Volume before speed","-Body weight squat
--Split Squat
--Single Leg Squat
--Ankle Skip
--Bounding",majorInjury,,,,,
-Knee,Anterior Knee Pain,Anterior Cruciate Ligament,Ligament,"-Lachman's Test
--Anterior Drawer Test","-Follow up closely with surgeon and protocol
--Volume before speed
--Assess stride and cadence
--2/10 pain
--No swelling and resolution of symptoms within 60 min of run","-Follow recon protocol if post-op
--Cycling 15-30 min
--Wall squat + ball
--Banded Prone Knee Bend
--Lateral step up/down
--Lateral step and jump",majorInjury,,,,,
-Knee,Posterior Knee Pain,Posterior Cruciate Ligament,Ligament,"-Posterior Sag Test
--Posterior Drawer Test","-Follow up closely with surgeon and protocol
--Volume before speed
--Assess stride and cadence
--2/10 pain
--No swelling and resolution of symptoms within 60 min of run","-Follow recon protocol if post-op
--Cycling 15-30 min
--Wall squat + ball
--Banded Prone Knee Bend
--Lateral step up/down
--Lateral step and jump",majorInjury,,,,,
-Knee,Medial Knee Pain,Medial Collateral Ligament,Ligament,"-Valgus stress test
--Pain with end range flexion, extension","-May require brace and follow up with Sports Med depending on grade.
--Volume before speed
--2/10 pain
--No swelling and resolution of symptoms within 60 min of run","-Cycling 15-30 min
--Wall squat + ball
--Lateral step up/down
--Lateral step and jump",majorInjury,,,,,
-Knee,Lateral Knee Pain,Lateral Collateral Ligament,Ligament,"-Varus stress test
--Pain with end range flexion and extension","-May require brace and follow up with Sports Med depending on grade.
--Volume before speed
--2/10 pain
--No swelling and resolution of symptoms within 60 min of run","-Cycling 15-30 min
--Wall squat + ball
--Lateral step up/down
--Lateral step and jump",majorInjury,,,,,
-Knee,Lateral Knee Pain,Coronary Ligament,Ligament,"-May often present as a meniscus injury
--Limited knee flexion and crouching
--Thessaly's Test
--Painful palpation of joint line","-Follow up with MD if there is ongoing knee instability and pain
--Volume before speed
--Run/Walk Interavals","-Straight leg raise
--Banded prone knee bends
--Spanish squats
--Nordics",majorInjury,,,,,
-Knee,Lateral Knee Pain,Lateral Retinaculum,Ligament,"-Lateral pain with Nobel's Test
--Retinaculum Tension Test","-Unlikely to be an isolated cause of lateral knee pain but could be a factor as IT band may insert there
--Taping may improve pain as a placebo(?)
--Speed can take precede over volume
--Try trails or different directions to avoid impingement
--Assess stride to see if hip adduction is a factor",-Medial bias wall squats (?),majorInjury,,,,,
-Hip & Groin,Lateral Hip,Sacrotuberous Ligament,Ligament,"-Painful palpation near ischial tuberosity
-- Thigh Thrust
--FABER","-Ensure single leg stability, and adductor muscles are strong enough to asborp impact forces.
--Monitor for pain and instability during running
--Assess stride
--Volume before speed","-Hip Abduction
--Hip Extension
--Split Squats
--Single Leg Bridge
--Hopping",majorInjury,,,,,
-Hip & Groin,Lateral Hip,Labral injury,Ligament,"-Subjective history more important as provocative tests are highly rated
--FADIR
--Fitzgerald
--FABER","-Ensure single leg stability, and adductor muscles are strong enough to asborp impact forces.
--Monitor for pain and instability during running
--Assess stride
--Volume before speed","-Hip Abduction
--Hip Extension
--Split Squats
--Single Leg Bridge
--Hopping",majorInjury,,,,,
-Hip & Groin,Pubalgia,Superior and Inferior Pubic Ligaments,Ligament,"-Rule out pubic symphisitis
--Pubic spring Test
--Resisted Hip Adduction
--Lateral compression","-Assess stride and cadence
--Begin on flat surfaces before hills
--Volume before speed
--Cross training (no breaststroke)","-Hip adduction
--Banded Hip flexion
--Banded Hip Internal Rotation
--Copenhagen Plank",majorInjury,,,,,
-Hip & Groin,Pubalgia,Inguinal Ligament,Ligament,"-Bulge/Cough Test to Rule Out Hernia
--Resisted Hip Adduction","-Assess stride and cadence
--Begin on flat surfaces before hills
--Volume before speed
--Cross training (no breaststroke)","-Hip adduction
--Banded Hip flexion
--Banded Hip Internal Rotation
--Copenhagen Plank",majorInjury,,,,,
-Foot,Dorsal Foot,Dorsal Interossei,Myofascial,"-Painful palpation
--Resisted toe abduction","-Assess for more cushioned footwear temporarily
--Walk/Run Intervals
--Self massage","-Short foot exercise
--Banded toe abduction
--Single leg stand
--Barefoot running",minorInjury,,,,,
-Foot,Plantar Foot,Plantar Interossei,Myofascial,"-Painful palpation
--Resisted toe adduction
--Squeeze Test","-Assess footwear to see what is compressing the interossei
--Maintain foot joint mobility
--Self massage","-Short foot exercise
--Single leg stand
--Barefoot running",minorInjury,,,,,
-Foot,Plantar Heel,Quadratus Plantae,Myofascial,"-Painful palpation
--Resisted hallucis flexion
--Rule of plantar fasciopathy","-Activity modification: focus on walk/run intervals
--Self massage
--Assess for more cushioned shoes","-Short foot exercise
--Single leg stand
--Single leg heel-raise
--Barefoot running",minorInjury,,,,,
-Leg,Anterolateral Leg,Chronic Exertional Compartment Syndrome,Fascia,"-Subjective history: pain with exertion, improved with rest
--Palpation of muscle hernias
--Deep peroneal nerve entrapment","-Try reducing heel-to-ground angle via forefoot strike
--Do not promote surgical fasciotomy as it will not resolve the underlying issues of biomechanics.
--Walk/Run Intervals
--Avoid hills until symptoms resolve for significant volume
--0/10 pain","-Single leg stand
--Single leg heel-raise
--Barefoot running",majorInjury,,,,,
-Leg,Anterolateral Leg,Dorsiflexor Myofascial Pain,Myofascial,"-Resisted dorsiflexion
--Running history: downhill pain
--Painful palpation","-Try reducing heel-to-ground angle via cadence
--Walk/Run Intervals
--Avoid hills until symptoms resolve for significant volume",-Banded ankle dorsiflexion,minorInjury,,,,,
-Leg,Posteromedial Leg,Chronic Exertional Compartment Syndrome,Fascia,"-Subjective history: pain with exertion, improved with rest
--Palpation of muscle hernias
--Tibial nerve entrapment","-Assess stride and increase cadence
--Walk/Run Intervals
--Avoid hills until symptoms resolve for significant volume
--0/10 pain","-Single leg stand
--Single leg heel-raise
--Barefoot running",majorInjury,,,,,
-Leg,Posteromedial Leg,Triceps Surae,Myofascial,"-Painful ankle dorsiflexion
--Resisted plantarflexion (knee flexion + extension)
--Painful palpation","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Heel raises + Weight
--Heel raises + Deficit
--A-Skip
--Bounding",minorInjury,,,,,
-Knee,Posterior Knee Pain,Popliteus,Myofascial,"-Rare running injury
--Painful palpation
--Resisted knee flexion (20 degrees) + tibial internal rotation","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Heel slides
--Banded prone knee bend + tibial internal rotation
--Forward Lunges
--Lateral Lunges",minorInjury,,,,,
-Knee,Posterior Knee Pain,Plantaris,Myofascial,"-Rare running injury
--Painful palpation
--Painful ankle dorsiflexion + knee extension
--Resisted plantarflexion + knee extension","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Heel raises + Weight
--Single heel raises Deficit
--A-Skip
--Bounding",minorInjury,,,,,
-Knee,Posterior Knee Pain,Upper Gastrocnemius,Myofascial,"-Painful palpation
--Painful ankle dorsiflexion + knee extension
--Resisted plantarflexion + knee extension","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Heel raises + Weight
--Single heel raises Deficit
--A-Skip
--Bounding",minorInjury,,,,,
-Knee,Lateral Knee Pain,Biceps femoris,Myofascial,"-Resisted knee flexion
--Painful knee extension + hip flexion
--Painful palpation
--Running history: sprinting, speedwork, hills","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen entire ROM
--Volume before speed
--Assess stride
--Flat ground before hills","-Long lever bridge
--Banded prone knee bend
--Weighted single leg long lever bridge
--Nordics",minorInjury,,,,,
-Knee,Lateral Knee Pain,Popliteus,Myofascial,"-Rare running injury
--Painful palpation
--Resisted knee flexion (20 degrees) + tibial internal rotation","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Heel slides
--Banded prone knee bend + tibial internal rotation
--Forward Lunges
--Lateral Lunges",minorInjury,,,,,
-Knee,Lateral Knee Pain,Tibialis Anterior,Myofascial,"-Resisted dorsiflexion
--Running history: downhill pain
--Painful palpation","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Try reducing heel-to-ground angle via cadence
--Walk/Run Intervals
--Avoid hills until symptoms resolve for significant volume","-Banded dorsiflexion
--Weighted dorsiflexion
--Hopping with toes extended",minorInjury,,,,,
-Knee,Lateral Knee Pain,Fibularis Longus,Myofascial,"-Painful palpation
--Resisted eversion","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Banded ankle eversion
--Single Leg Stance + Band Pulled Medially",minorInjury,,,,,
-Knee,Lateral Knee Pain,Vastus lateralis,Myofascial,"-Painful palpation
--Resisted knee extension","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before downhill","-Banded knee extension/flexion,
--Squats,
--Lunges
--Reverse Nordics
--Downhill Running",minorInjury,,,,,
-Knee,Lateral Knee Pain,Soleus,Myofascial,"-Painful palpation
--Resisted plantarflexion + knee flexion","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","Seated plantarflexion + weight
-Single Leg Heel Raise + Deficit
-A-Skips
-Bounding",minorInjury,,,,,
-Hip & Groin,Anterior Hip,"Internal obliques, Transversus, Rectus Abdominis",Myofascial,"-Painful palpation
--Resisted trunk flexion
--Painful trunk extension","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Diaphragmatic breathing
--Deadbug
--Single glute bridges
--Bridge on ball",minorInjury,,,,,
-Hip & Groin,Thigh,Quadriceps,Myofascial,"-Painful palpation
--Resisted knee extension
--Painful quadriceps stretch","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Banded knee extension/flexion,
--Squats,
--Lunges
--Reverse Nordics
--Downhill Running",minorInjury,,,,,
-Hip & Groin,Lateral Hip,Glute Minimus & Tensor Fascia Lata,Myofascial,"-Painful palpation
--Resisted hip abduction with tibial internal rotation","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Banded Hip Abduction + Toe Down
--Banded Crabwalks
--Single Leg Squat + Deficit
--Lateral Bounding",minorInjury,,,,,
-Hip & Groin,Lateral Hip,Piriformis,Myofascial,"-Painful palpation
--Resisted hip external rotation
--FAIR Test","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Banded Clamshell
--Banded Crabwalks
--Single Leg Squat + Deficit
--Lateral Bounding",minorInjury,,,,,
-Hip & Groin,Posterior Hip,Piriformis,Myofascial,"-Painful palpation
--Resisted hip external rotation
--FAIR Test","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Banded Clamshell
--Banded Crabwalks
--Single Leg Squat + Deficit
--Lateral Bounding",minorInjury,,,,,
-Hip & Groin,Lateral Hip,Gemelli & Quadratus Femoris,Myofascial,"-Painful palpation
--Resisted hip external rotation","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Banded Clamshell
--Banded Crabwalks
--Single Leg Squat + Deficit
--Lateral Bounding",minorInjury,,,,,
-Hip & Groin,Posterior Hip,Gemelli & Quadratus Femoris,Myofascial,"-Painful palpation
--Resisted hip external rotation","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Banded Clamshell
--Banded Crabwalks
--Single Leg Squat + Deficit
--Lateral Bounding",minorInjury,,,,,
-Hip & Groin,Pubalgia,External Oblique Aponeurosis Tear,Myofascial,"-Painful palpation
--Resisted contralateral shoulder for trunk flexion (internal ipsilateral, external contralateral)","-Start exercises and gentle running within 2 days
--4/10 pain acceptable
--Strengthen trunk muscles
--Volume before speed
--Assess stride
--Flat ground before hills","-Diaphragmatic breathing
--Deadbug
--Single glute bridges
--Bridge on ball",majorInjury,,,,,
-Hip & Groin,Posterior Hip,Glute Maximus,Myofascial,"-Painful palpation
--Resisted hip extension","-Challenging injury to manage since the surface area is so large and is exposed in hip flexion/compression (sitting) and in hip extension (standing, walking, running).
--May require sleeping in prone or side-lying and avoiding any symptomatic sitting until pain is tolerable
--2/10 pain
--Volume before speed
--Flat before hills","-Long lever bridge
--Foot elevated bridge
--Romanian Deadlift
--Bounding
--A skips",minorInjury,,,,,
-Foot,Plantar Foot,Interdigital Neuroma,Nerve,"-Most frequent nerve entrapment; Morton's Neuroma. Compression of the interdigital nerves usually between the 3rd and 4th toes
--Squeeze test","-Examine shoe to see if the toe box or toe-off in running is a culprit
--Hallux valgus or a hypermobile 1st MTP may form calluses leading to a more narrow toe box and compression.
--Decrease dorsiflexion, increase forefoot and interdigital mobility, try wider shoes
--0/10 pain before progressing
--Volume before speed","-Short foot exercise
--Banded toe abduction
--Single leg stand
--Barefoot running",majorInjury,,,,,
-Foot,Dorsal Foot,Lateral Sural Nerve,Nerve,"-Rare entrapment: SN is formed by the tibial and common peroneal nerve but may mimic gastrocnemius pain but tends to radiate past lateral malleolis and the 5th MTP.
--Neurodynamic Test: Hip flexion, knee extension, ankle dorsiflexion, foot inversion
--Running History: Burning pain...etc","-Modify footwear according to symptoms, heel lift if pain in dorisflexion or medial arch if in pronation
--Identify provocations in running assessment and remove compression
--0/10 pain before progressing
--Volume before speed","-Nerve sliders: Hip flexion, knee extension, ankle dorsiflexion, foot inversion",majorInjury,,,,,
-Foot,Plantar Heel,Tarsal Tunnel Syndrome,Nerve,"-Rule out referred pain from sciatic nerve
--Neurodynamic Test: Hip flexion, knee extension, ankle dorsiflexion, foot eversion and toe extension
--Running History: Burning pain...etc
--Tinels'","-Modify footwear according to symptoms, heel lift if pain in dorisflexion or medial arch if in pronation
--Identify provocations in running assessment and remove compression
--0/10 pain before progressing
--Volume before speed","-Nerve sliders: Hip flexion, knee extension, ankle dorsiflexion, foot eversion and toe extension",majorInjury,,,,,
-Foot,Dorsal Foot,Superficial Peroneal Nerve,Nerve,"-Pain is usually a diffuse ache over the sinus tarsi
--Dorsiflexion + Eversion + Tinel's
--History of chronic ankle sprains is a risk factor.","-Rehab on ankle instability, proprioception
--Modify footwear if needed
--0/10 pain before progressing
--Volume before speed","-Single leg heel raise
--Single Leg stand
--Nerve sliders: Hip flexion + hip internal rotation, knee extension, ankle plantarflexion, foot inversion and toe flexion",majorInjury,,,,,
-Foot,Dorsal Foot,Deep Peroneal Nerve,Nerve,"-Entrapment may occur on the EHL and the extensor retinaculum, or osteophytes
--Painful palpation on in the 1st web space
--Rule out compartment syndrome","-Footwear changes to avoid direct pressure
--Try to reduce footstrike angle, hills
--May require prolonged walk run intervals and sports med referal
--0/10 pain before progressing
--Volume before speed","-Nerve sliders: Hip flexion + hip internal rotation, knee extension, ankle plantarflexion, foot inversion and toe flexion",majorInjury,,,,,
-Foot,Plantar Foot,Lateral plantar nerve (Baxter's Nerve),Nerve,"-Neurodynamic Testing: Hip flexion + hip internal rotation, knee extension, ankle plantarflexion, foot inversion and toe flexion
--Tinel's
--Usually only the 1st branch LPN and it ends up on the quadratus plantae and abductor hallucis. Pain along the 4th and 5th toes
--Pronation tends to irritate it during running. Important to differentiate from plantar fasciopathy as the pain is superior to the aponeurosis origin","-Heel cups are helpful, ankle stability exercises are important as well as barefoot drills and running.
--Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed","-Nerve sliders: Hip flexion + hip internal rotation, knee extension, ankle plantarflexion, foot inversion and toe flexion
--Single Leg Standing + Band Pulled Laterally
--A-Skip",majorInjury,,,,,
-Foot,Plantar Foot,Saphenous nerve,Nerve,"--Neurodynamic Testing: hip extension, abduction, external rotation, knee extension and then ankle dorsiflexion and foot eversion
--May mimic tibial stress fracture on foot pain
--Tinel's","-Refer out if symptoms worsen or recalcitrant
--Nerve glides may help desensitize tissue
--0/10 pain before progressing
--Volume before speed","-Nerve sliders: Hip external rotation, extension, abduction, knee extension, ankle dorsiflexion, foot eversion
--Single Leg Standing + Band Pulled Medially
--A-Skip",majorInjury,,,,,
-Foot,Plantar Foot,Medial plantar nerve,Nerve,"-Branches of this nerve will branch out to 1st-3rd web spaces
--Pain along the medial heel and longitudinal arch, but more central
--Entrapment occurs at abductor hallucis or FHL either internally by hypertrophy of the muscle or external compression via footwear","-Desensitize tissue via modifying shoe or orthotics and increasing ankle stability, or improving running mechanics.
--Hallucis rigidis may be a factor to MPN pain as well
--Assess footwear for a tight toebox
--0/10 pain before progressing
--Volume before speed","-Single Leg Standing + Band Pulled Laterally
--A-Skip",majorInjury,,,,,
-Knee,Anterior Knee Pain,Infrapatellar branch of the saphenous nerve,Nerve,"-Neurodynamic Testing: Prone Hip external rotation, extension, abduction, knee extension, ankle dorsiflexion, foot eversion
--Innervates the medial patella from the saphenous nerve","-Refer out if symptoms worsen or recalcitrant
--Nerve glides may help desensitize tissue
--0/10 pain before progressing
--Volume before speed","-Nerve sliders: Hip external rotation, extension, abduction, knee extension, ankle dorsiflexion, foot eversion",majorInjury,,,,,
-Knee,Medial Knee Pain,Saphenous nerve,Nerve,"-Neurodynamic Testing: hip extension, abduction, external rotation, knee extension and then ankle dorsiflexion and foot eversion
--Pain may sometimes be aggravated by a pes anserine bursa
--Any strength or motor deficits should rule out this diagnosis. Most exposed in the Hunter adductor canal coursing the sartorius.","-Refer out if symptoms worsen or recalcitrant
--Nerve glides may help desensitize tissue
--0/10 pain before progressing
--Volume before speed","-Nerve sliders: Hip external rotation, extension, abduction, knee extension, ankle dorsiflexion, foot eversion",majorInjury,,,,,
-Knee,Lateral Knee Pain,Lateral Femoral Cutaneous Nerve,Nerve,"-Rare nerve injury
--Neurodynamic Testing: hip extension, knee flexion and then hip adduction
--Tinel's
--Any strength or motor deficits should rule out this diagnosis","-Refer out if symptoms worsen or recalcitrant
--Nerve glides may help desensitize tissue
--0/10 pain before progressing
--Volume before speed","-Nerve sliders: Hip extension, knee flexion and then hip adduction",majorInjury,,,,,
-Knee,Lateral Knee Pain,Common Peroneal Nerve,Nerve,"-Neurodynamic Testing: Prone hip extension + adduction, knee flexion
--Most common lateral nerve injury in runners but is self limiting","-Refer out if symptoms or weakness worsen or recalcitrant
--Nerve glides may help desensitize tissue
--0/10 pain before progressing
--Volume before speed
--Avoid running downhill, or a combination of plantarflexion and inversion if symptomatic","-Nerve sliders: Prone hip extension + adduction, knee flexion
--Single Leg Standing + Pulling Band Medially
--Banded Dorsiflexion",majorInjury,,,,,
-Hip & Groin,Anterior Hip,"Iliohypogastric, ilioinguinal, genitofemoral nerve entrapment",Nerve,"-Painful palpation along ASIS
--May mimic a sports hernia
--Subjective History","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed
--May require a surgical consultation if anatomical variations are making it susceptible for entrapment and conservative treatment is not working",,majorInjury,,,,,
-Hip & Groin,Anterior Hip,Femoral nerve,Nerve,"-Neurodynamic Testing: Prone hip extension, knee flexion
--Subjective History","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed
--Flat surface before hills
--Identify other factors that may be entraping the nerve","-Nerve sliders: Prone hip extension, knee flexion",majorInjury,,,,,
-Hip & Groin,Anterior Hip,Meralgia Paresthetica (Lateral Femoral Cutaneous Nerve),Nerve,"-Painful palpation
--Tinel's
--Neurodynamic Testing: Hip extension, knee flexion, hip adduction
--Subjective History","-Rare injury, not much known from the literature
--Identify factors that are causing compression of the nerve
--Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed",,majorInjury,,,,,
-Hip & Groin,Thigh,Meralgia Paresthetica (Lateral Femoral Cutaneous Nerve),Nerve,"-Painful palpation
--Tinel's
--Neurodynamic Testing: Hip extension, knee flexion, hip adduction
--Subjective History","-Rare injury, not much known from the literature
--Identify factors that are causing compression of the nerve
--Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed",,majorInjury,,,,,
-Hip & Groin,Thigh,Cruralgia (Femoral nerve roots L2-L4),Nerve,"-Myotomes L2-L4
--Dermatomes L2-L4
--L3/L4 Reflex
--Neurodynamic Testing: Hip extension, knee flexion","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed
--Strengthen trunk and legs","-Supine Bridge
--Banded Hip Flexion
--Banded Knee Extension
--Banded Ankle Dorsiflexion
--Squat
--Lunge",majorInjury,,,,,
-Hip & Groin,Thigh,Posterior Femoral Cutaneous Nerve,Nerve,"-May be compressed by piriformis
--Tinel's
--Subjective History","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed","-Clamshells
--Banded Crabwalks",majorInjury,,,,,
-Hip & Groin,Thigh,Obturator Nerve,Nerve,"-Differentiate from inguinal ligament and adductors
--Subjective History
--Resisted hip adduction
--Neurodynamic Testing: Prone hip extension + abduction, knee flexion","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed","-Nerve sliders: Prone hip extension + abduction, knee flexion
--Hip adduction
--Trunk stability",majorInjury,,,,,
-Hip & Groin,Lateral Hip,Cluneal nerves (T11-S4),Nerve,"-Subjective history
--Rule out resisted hip extension, abduction, external rotation","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed","-Hip extension
--Squats
--Lunges
--Trunk stability",majorInjury,,,,,
-Hip & Groin,Lateral Hip,Meralgia Paresthetica (Lateral Femoral Cutaneous Nerve),Nerve,"-Painful palpation
--Tinel's
--Neurodynamic Testing: Hip extension, knee flexion, hip adduction
--Subjective History","-Rare injury, not much known from the literature
--Identify factors that are causing compression of the nerve
--Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed","-Hip extension
--Squats
--Lunges
--Trunk stability",majorInjury,,,,,
-Hip & Groin,Pubalgia,Ilioinguinal & Iliohypogastric,Nerve,"-Painful palpation
--Tinel's
--Subjective History","-Refer out if symptoms worsen or recalcitrant (nerve entraped by anatomic adhesions)
--0/10 pain before progressing
--Volume before speed","-Supine Bridge
--Banded Hip Flexion
--Squat
--Lunge",majorInjury,,,,,
-Hip & Groin,Pubalgia,Genito-femoral Nerve (L1-L2),Nerve,"-Rule out referred pain from low back
--Subjective history: hernia, surgery, trauma","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed
--Treat low back pain if appropriate","-Supine Bridge
--Banded Hip Flexion
--Squat
--Lunge",majorInjury,,,,,
-Hip & Groin,Posterior Hip,Iliohypogastric Nerve,Nerve,"-Painful palpation
--Tinel's
--Subjective History","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed","-Supine Bridge
--Banded Hip Flexion
--Squat
--Lunge",majorInjury,,,,,
-Hip & Groin,Posterior Hip,Cluneal nerves (T11-S4),Nerve,"-Subjective history
--Rule out resisted hip extension, abduction, external rotation
--Includes (inferior, superior and posterior)","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed","-Hip extension
--Squats
--Lunges
--Trunk stability",majorInjury,,,,,
-Hip & Groin,Posterior Hip,Posterior Femoral Cutaneous Nerve,Nerve,"-May be compressed by piriformis
--Tinel's
--Subjective History","-Refer out if symptoms worsen or recalcitrant
--0/10 pain before progressing
--Volume before speed","-Clamshells
--Banded Crabwalks",majorInjury,,,,,
-Foot,Dorsal Foot,Referred pain from L4-S1 segments,Referred / Spine,"-Slump
--Straight Leg Raise
--Repeated Lumbar Flexion/Extension
--Subjective History
--Myotomes/Dermatomes","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Leg,Anterolateral Leg,Radiculopathy L5-S1,Referred / Spine,"-Slump
--Straight Leg Raise
--Repeated Lumbar Flexion/Extension
--Subjective History
--Myotomes/Dermatomes","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Leg,Posteromedial Leg,Radiculopathy L4-S1,Referred / Spine,"-Slump
--Straight Leg Raise
--Repeated Lumbar Flexion/Extension
--Subjective History
--Myotomes/Dermatomes","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Knee,Anterior Knee Pain,Referred pain from L4/L5 nerve roots,Referred / Spine,"-Slump
--Straight Leg Raise
--Repeated Lumbar Flexion/Extension
--Subjective History
--Myotomes/Dermatomes","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Knee,Medial Knee Pain,L3-L4 referred pain,Referred / Spine,"-Slump
--Repeated Lumbar Flexion/Extension
--Subjective History
--Myotomes/Dermatomes","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Knee,Posterior Knee Pain,Sciatica (S1/S2 nerve roots),Referred / Spine,"-Slump
--Repeated Lumbar Flexion/Extension
--Subjective History
--Myotomes/Dermatomes
--FAIR for piriformis impingement","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Knee,Lateral Knee Pain,Referred Pain L5,Referred / Spine,"-Slump
--Straight Leg Raise
--Repeated Lumbar Flexion/Extension
--Subjective History
--Myotomes/Dermatomes","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Hip & Groin,Lateral Hip,Referred pain from L4-S1,Referred / Spine,"-Slump
--Straight Leg Raise
--Repeated Lumbar Flexion/Extension
--Subjective History
--Myotomes/Dermatomes","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Hip & Groin,Pubalgia,Maigne Syndrome (T12-L2),Referred / Spine,"-Tinels
--Subjective history","-Identify any compression on the affected area
--Refer to physician if not improving","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Hip & Groin,Posterior Hip,Referred lumbar pain L4-S1,Referred / Spine,"-Slump
--Straight Leg Raise
--Repeated Lumbar Flexion/Extension
--Subjective History
--Myotomes/Dermatomes","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Pelvic tilt
--Deadbug
--Single leg bridge
--Bridge on ball
--Side plank",minorInjury,,,,,
-Foot,Dorsal Foot,Tenosynovitis (Extensor Tendons),Tendon,"-Resisted toe extension
--Painful ROM in toe flexion","-Identify factors such as too tight or a shoe tongue, toe box or downhill running
--Address the edema that can cause compression in a trail race over time","-Resisted toe extension
--Hopping barefoot
--Running barefoot
--B skips",minorInjury,,,,,
-Foot,Dorsal Foot,Tibialis Anterior Tendinopathy,Tendon,"-Painful palpation
--Painful passive ankle plantarflexion and inversion
--Resisted dorsiflexion and eversion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Banded Ankle Dorsiflexion
--Ankle Bounces Toes Up
--A-Skips Toes Up",minorInjury,,,,,
-Foot,Dorsal Foot,Extensor Hallucis Longus Tendinopathy,Tendon,"-Painful palpation
--Resisted hallucis extension from flexion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Toe extension isometric
--Banded toe extension
--Single Leg Heel Raise
--A-Skips Toes Up",minorInjury,,,,,
-Foot,Dorsal Foot,Extensor Hallucis Brevis Tendinopathy,Tendon,"-Painful palpation
--Resisted hallucis extension from flexion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Toe extension isometric
--Banded toe extension
--Single Leg Heel Raise
--A-Skips Toes Up",minorInjury,,,,,
-Foot,Dorsal Foot,Extensor Digitorum Longus Tendinopathy,Tendon,"-Painful palpation
--Resisted toes 2-5 extension from flexion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Toe extension isometric
--Banded toe extension
--Single Leg Heel Raise
--A-Skips Toes Up",minorInjury,,,,,
-Foot,Dorsal Foot,Extensor Digitorum Brevis Tendinopathy,Tendon,"-Painful palpation
--Resisted toes 2-5 extension from flexion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Toe extension isometric
--Banded toe extension
--Single Leg Heel Raise
--A-Skips Toes Up",minorInjury,,,,,
-Foot,Plantar Heel,Plantar fasciopathy,Fascia,"-Painful palpation
--Windlass Test
--Subjective History: AM stiffness","-Many runners will want to protect the foot with thicker shoes instead of progressively loading it due to pain
--2/10 pain but no morning pain day after run
--Emphasize Run/Walk Intervals
--Volume before speed
--Assess stride and cadence
--Rare case for the shockwave machine to desensitize, but this can be substituted with a lacross ball","-Single leg balance
--Single leg heel raise
--Inch-Worm
--Barefoot Ankle Bounce Toes Up
--Barefoot Run 1 min",minorInjury,,,,,
-Foot,Plantar Heel,Fibularis Longus Tendinopathy,Tendon,"-Painful palpation
--Resisted 1st MTP","-Avoid compressing tendon via inversion, suggest to run on opposite direction of camber if able
--Volume before speed
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Body Weight Squat
--Step Up
--Step Down
--Lateral Step Down
--Hopping off step",minorInjury,,,,,
-Foot,Posterior Heel Pain,Fibularis Longus Tendinopathy,Tendon,"-Painful palpation
--Resisted 1st MTP","-Avoid compressing tendon via inversion, suggest to run on opposite direction of camber if able
--Volume before speed
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Body Weight Squat
--Step Up
--Step Down
--Lateral Step Down
--Hopping off step",minorInjury,,,,,
-Foot,Plantar Heel,Fibularis Brevis Tendinopathy,Tendon,"-Painful palpation
--Resisted ankle eversion + plantarflexion","-Avoid compressing tendon via inversion, suggest to run on opposite direction of camber if able
--Volume before speed
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Body Weight Squat
--Step Up
--Step Down
--Lateral Step Down
--Hopping off step",minorInjury,,,,,
-Foot,Posterior Heel Pain,Fibularis Brevis Tendinopathy,Tendon,"-Painful palpation
--Resisted ankle eversion + plantarflexion","-Avoid compressing tendon via inversion, suggest to run on opposite direction of camber if able
--Volume before speed
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Body Weight Squat
--Step Up
--Step Down
--Lateral Step Down
--Hopping off step",minorInjury,,,,,
-Foot,Plantar Heel,Flexor Digitorum Longus Tendinopathy,Tendon,"-Painful palpation
--Resisted toe flexion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Toe flexion isometric
--Toe flexion banded
--Medial Biased Calf Raise
--A-Skip
--Bounding",minorInjury,,,,,
-Leg,Posteromedial Leg,Flexor Digitorum Longus Tendinopathy,Tendon,"-Painful palpation
--Resisted toe flexion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Toe flexion isometric
--Toe flexion banded
--Medial Biased Calf Raise
--A-Skip
--Bounding",minorInjury,,,,,
-Foot,Plantar Heel,Abductor Hallucis Longus Tendinopathy,Tendon,"-Painful palpation
--Resisted toe abduction","-Volume before speed
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run",-Banded toe side steps,minorInjury,,,,,
-Foot,Plantar Heel,Abductor Digiti Minimi Tendinopathy,Tendon,"-Painful palpation
--Resisted toe abduction","-Volume before speed
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run",-Banded toe splaying,minorInjury,,,,,
-Foot,Posterior Heel Pain,Achilles Tendinopathy,Tendon,"-Differentiate between insertion and midportion
--Painful palpation
--Royal Hospital London Test
--Resisted Plantarflexion","-Avoid compression insertion via dorsiflexion
--Volume before speed
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Single leg calf raise
--Deficit Single Leg Calf Raiseq
--Weighted Deficit Single Leg Calf Raise
--A-Skip
--Bounding",minorInjury,,,,,
-Foot,Posterior Heel Pain,Flexor Hallucis Longus Tendinopathy,Tendon,"-Painful palpation
--Resisted hallucis flexion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Hallucis flexion isometric
--Hallucis flexion banded
--Medial Biased Calf Raise
--A-Skip
--Bounding",minorInjury,,,,,
-Leg,Posteromedial Leg,Flexor Hallucis Longus Tendinopathy,Tendon,"-Painful palpation
--Resisted hallucis flexion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Hallucis flexion isometric
--Hallucis flexion banded
--Medial Biased Calf Raise
--A-Skip
--Bounding",minorInjury,,,,,
-Leg,Posteromedial Leg,Tibialis Posterior Tendinopathy,Tendon,"-Painful palpation
--Resisted inversion + plantarflexion","-Avoid compression by avoiding painful pronation
--Temporary arch support?
--Volume before speed
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Reverse lunge
--Single leg box squat
--Single leg stand with band pulled laterally",minorInjury,,,,,
-Foot,Posterior Heel Pain,Tibialis Posterior Tendinopathy,Tendon,"-Painful palpation
--Resisted inversion + plantarflexion","-Avoid compression by avoiding painful pronation
--Temporary arch support?
--Volume before speed
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Reverse lunge
--Single leg box squat
--Single leg stand with band pulled laterally",minorInjury,,,,,
-Foot,Posterior Heel Pain,Flexor Digitorum Tenosynovitis,Tendon,"-Sudden onset
--Painful palpation
--Painful passive toe extension
--Resisted toe flexion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Toe flexion isometric
--Toe flexion banded
--Medial Biased Calf Raise
--A-Skip
--Bounding",minorInjury,,,,,
-Leg,Anterolateral Leg,Extensor Hallucis Longus Tendinopathy,Tendon,"-Painful palpation
--Painful passive toe flexion
--Resisted toe extension","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Hallucis extension isometric
--Toe extension banded
--A-Skip
--Bounding",minorInjury,,,,,
-Leg,Anterolateral Leg,Tibialis Anterior Tendinopathy,Tendon,"-Painful palpation
--Painful passive ankle plantarflexion and inversion
--Resisted dorsiflexion and eversion","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Banded Ankle Dorsiflexion
--Ankle Bounces Toes Up
--A-Skips Toes Up",minorInjury,,,,,
-Leg,Anterolateral Leg,Extensor Digitorum Tendinopathy,Tendon,"-Painful palpation
--Painful passive toes flexion
--Resisted toes extension","-Activity modification
--Assess footwear for tight toe box
--Avoid compression via toe flexion
--Flat before hills
--2/10 pain and resolution of symptoms within 60 min of run","-Hallucis extension isometric
--Toe extension banded
--A-Skip
--Bounding",minorInjury,,,,,
-Knee,Anterior Knee Pain,Quadriceps Tendinopathy,Tendon,"-Painful Injury
--Resisted knee extension at 120 degrees flexion","-Avoid compressing tendon via deep squats or excessive knee flexion
--Avoid classic quadriceps stretch
--Volume before speed
--2/10 pain and resolution of symptoms within 60 min of run","-Banded Straight Leg Raise
--Single Leg Squat + Deficit
--Bilateral Depth Drop
--Single Leg Depth Drop
--Downhill Running",minorInjury,,,,,
-Knee,Anterior Knee Pain,Patellar Tendinopathy,Tendon,"-Painful Palpation
--Resisted knee extension at 30  degrees flexion","-Downhill running may be an aggravating factor
--Volume before speed
--2/10 pain and resolution of symptoms within 60 min of run","-Knee extension + Deep Flexion
--Decline squats
--Split Squats
--A-skip
--Bounding
--Downhill Running",minorInjury,,,,,
-Knee,Medial Knee Pain,Pes anserine Tendinopathy and Bursaopathy,Mixed,"-Over diagnosed look for other medial knee pain causes
--Resisted tests for sartorius, gracilis and semitendinosus
--Painful Palpation","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--0/10 pain before progressing
--Volume before speed","-Hip adduction
--Prone Knee Flexion
--Hip abduction
--Lateral Step Downs
--Downhill running",minorInjury,,,,,
-Knee,Posterior Knee Pain,Biceps Femoris Tendinopathy,Tendon,"-Painful palpation
--Resisted knee flexion","-0/10 pain before progressing
--Volume before speed
--Emphasis on loading and plyometrics","-Prone knee bend + band
--Long Lever Bridge
--Nordics",minorInjury,,,,,
-Knee,Posterior Knee Pain,Semitendinosis/Semimembranosus Tendinopathy,Tendon,"-Painful palpation
--Resisted knee flexion","-0/10 pain before progressing
--Volume before speed
--Emphasis on loading and plyometrics","-Prone knee bend + band
--Long Lever Bridge
--Nordics",minorInjury,,,,,
-Knee,Lateral Knee Pain,Iliotibial Band Syndrome,Mixed,"-Running history: downhills, volume
--Painful palpation
--Nobel's Test","-Walk/Run Intervals
--0/10 pain before progression
--Assess stride for hip adduction
--Speed before volume
--Avoid unidirectional runs
--Progress to downhill","-Exercises helpful for desensitization
--Hip abduction
--Lateral step downs",majorInjury,,,,,
-Hip & Groin,Anterior Hip,Rectus Femoris Tendinopathy,Tendon,"-Painful palpation
--Resisted Hip Flexion + Knee Extension","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--Volume before speed
--2/10 pain before progression","-Supine banded straight leg raise
--Standing banded SLR
--A-Skip
--Bounding",minorInjury,,,,,
-Hip & Groin,Anterior Hip,Iliopsoas Tendinopathy,Tendon,"-Painful palpation
--Resisted Hip Flexion + Knee Flexion","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--Volume before speed
--2/10 pain before progression","-Supine banded hip flexion
--Standing banded hip flexion
--Prone banded hip flexion
--A-Skip
--Bounding",minorInjury,,,,,
-Hip & Groin,Anterior Hip,Adductor Tendinopathy,Tendon,"-Diagnosis may include sartorius, adductor brevis/longus/magnus and pectineus
--Resisted hip adduction
--Painful palpation","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--Volume before speed
--2/10 pain","- Side Lying Hip adduction
--Copenhagen Plank
--Lateral Bounding",minorInjury,,,,,
-Hip & Groin,Lateral Hip,Gluteal Medius Tendinopathy,Tendon,"-Painful palpation
--Resisted Hip Abduction
--Single Leg Stance","-Avoid compressing tendon via adduction
--Assess stride for provocative hip adduction
--2/10 pain
--Volume before speed","-Side lying abduction with band
--Banded Crab Walks
--Lateral Leg Slide with Weight
--Running Drills
--Bounding",minorInjury,,,,,
-Hip & Groin,Lateral Hip,Proximal Iliotibial Fasciopathy,Fascia,"-Running history: downhills, volume
--Painful palpation","-Walk/Run Intervals
--0/10 pain
--Assess stride for hip adduction
--Speed before volume
--Avoid unidirectional runs
--Progress to downhill","-Exercises helpful for desensitization
--Hip abduction
--Lateral step downs",majorInjury,,,,,
-Hip & Groin,Lateral Hip,Iliotibial Band Syndrome,Mixed,"-Running history: downhills, volume
--Painful palpation
--Nobel's Test","-Walk/Run Intervals
--0/10 pain
--Assess stride for hip adduction
--Speed before volume
--Avoid unidirectional runs
--Progress to downhill","-Exercises helpful for desensitization
--Hip abduction
--Lateral step downs",majorInjury,,,,,
-Hip & Groin,Pubalgia,Enthesopathy at inguinal ligament insertion,Tendon,"-Painful palpation
--Resisted hip adduction, flexion","-Overstriding and hills may be a pain generator
--Assess and see if changes in running form improve pain
--Volume before speed
--2/10 pain","-Supine banded hip flexion
--Standing banded hip flexion
--Prone banded hip flexion",majorInjury,,,,,
-Hip & Groin,Pubalgia,Adductor Tendinopathy,Tendon,"-Painful palpation
--Resisted hip adduction","-Avoid compression via groin stretching
--Assess and see if changes in running form improve pain
--Volume before speed
--2/10 pain","- Side Lying Hip adduction
--Copenhagen Plank
--Lateral Bounding",minorInjury,,,,,
-Hip & Groin,Pubalgia,Rectus Abdominis Tendinopathy,Tendon,"-Painful palpation
--Resisted trunk flexion","-Avoid sit-ups, crunches, bicycle crunches, heavy lifting initially
--Overstriding and hills may be a pain generator
--2/10 pain
--Volume before speed","-Diaphragmatic Breathing
--Plank
--Side Plank",majorInjury,,,,,
-Hip & Groin,Posterior Hip,Proximal Hamstring Tendinopathy,Tendon,"-Running history: hills, speed, hamstring stretch is painful
--Painful palpation on ischial tuberosity
--Resisted hip extension + 90 degree knee bend","-Avoid activities that compress the insertional tendon in deep hip flexion: hill sprints, deep squats, lunges, RDLs
--Progress with volume, then speed, then hills
--Donut cushion for pain control","-Prone knee bend banded
--Long lever bridge
--Foot elevated bridge
--Romanian Deadlift
--Bounding
--A skips",minorInjury,,,,,
-Foot,Dorsal Foot,Venous stasis/claudication,Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Foot,Plantar Heel,Calcaneal anastomosis artery and veins,Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Foot,Plantar Heel,Medial and lateral plantar arteries and veins,Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Foot,Posterior Heel Pain,Arterial venous calcaneal anastomoses,Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Leg,Anterolateral Leg,"Venous insufficiency, atheroma, iliac artery endofibrosis",Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Leg,Posteromedial Leg,"Deep vein thrombosis, venous insufficiency, atheroma, iliac artery endofibrosis",Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Leg,Posteromedial Leg,Popliteal artery entrapment,Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Knee,Posterior Knee Pain,Popliteal artery,Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Hip & Groin,Anterior Hip,"External iliac artery, deep and superficial femoral arteries, circumflex artery",Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Hip & Groin,Thigh,"Deep + superficial femoral arteries",Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Hip & Groin,Lateral Hip,"Superior and inferior gluteal arteries, circumflex artery",Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Hip & Groin,Pubalgia,"External iliac artery, deep and superficial femoral arteries, circumflex artery",Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Leg,Posteromedial Leg,Arterial venous calcaneal anastomoses,Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Hip & Groin,Anterior Hip,"Venous insufficiency, atheroma, iliac artery endofibrosis",Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Various,Various Details,Deep vein thrombosis,Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Knee,Posterior Knee Pain,Popliteal artery entrapment,Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
-Hip & Groin,Anterior Hip,"External iliac artery, deep and superficial femoral arteries, circumflex artery",Vascular,"-Out of scope for physios.
--You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.","- Refer to Sports Med who may refer to Vascular Surgery.
--If surgery is indeed not an option, reduce intensity build volume.
--Reorienting client goals is important to preserve limb integrity and quality of life.",,majorInjury,,,,,
+/* ==========================
+   COMPLETE INJURY DATABASE (FROM CSV)
+========================== */
+const INJURY_DATABASE = [
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Metatarsal Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Focal pain on palpation\n-Fulcrum test\n-Pain on hop-test", TreatmentNotes:"-Rule out high risk stress (2nd & 5th)\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Great Sesamoid Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Focal pain on deep plantar palpation\n-Fulcrum test\n-Pain on hop-test, hallucis dorsiflexion", TreatmentNotes:"-Refer out to physician immediately\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Plantar Foot", Pathology:"Navicular Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-May be difficult to palpate as it often presents as a deep ankle pain in weight-bearing\n-Pain on hop-test\n-Thorough running history", TreatmentNotes:"-Refer out to physician immediately\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Plantar Foot", Pathology:"Talus Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-May be difficult to palpate as it often presents as a deep ankle pain in weight-bearing\n-Pain on hop-test\n-Thorough running history", TreatmentNotes:"-Refer out to physician immediately\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Calcaneal Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Focal pain on palpation\n-Pain on heel-drop test or percussive test\n-Thorough running history", TreatmentNotes:"- Low-risk fracture managed with activity modification\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Ankle Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Ottawa Ankle Rules: 4 steps, bony pain on bilateral malleoli, base of the 5th, navicular", TreatmentNotes:"-~6-10 wks NWB, \n-Imaging + obtain WB clearance from physician\n-Stregnthen other muscles ASAP (prox hip, knee, upper limb)\n-Volume first before speed/intensity", Exercises:"-Active Ankle ROM\n-Banded ankle plantarflexion, inversion, eversion, dorsiflexion\n-Heel raises\n-Single leg balance", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Medial Tibial Stress Syndrome", Tissue:"Periosteum", KeyDiagnosticTests:"-Widespread pain upon palpating tibia\n-Running history: warm-up effect, low frequency of running but long duration\n-Running assessment: high foot strike angle, low cadence, overstriding\n-Runners will often push themselves through this so presentation is likely more severe and calcitrant.", TreatmentNotes:"-Run-walk intervals takes precedence over exercises. 0/10 pain.\n-Increase frequency & volume before speed\n-Practice minimizing stride length, running softly and having a smaller stack and drop on shoes", Exercises:"-A skips", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Anterolateral Tibial Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Focal pain on palpation\n-Fulcrum test\n-Muscle herniations\n-Pain on hop-test", TreatmentNotes:"-Refer out to physician immediately\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Posteromedial Tibial Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Focal pain on palpation\n-Fulcrum test\n-Muscle herniations\n-Pain on hop-test", TreatmentNotes:"-Rule out high risk stress fractures\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Fracture of the patella, femur, tibia, fibula", Tissue:"Periosteum", KeyDiagnosticTests:"-Ottawa Knee Rules: Over 55, 4 steps, can't bend knee to 90 degrees, bony pain on head of fibula, patella.", TreatmentNotes:"-~8-12 wks NWB, \n-Imaging + obtain WB clearance from physician\n-Stregnthen other muscles ASAP (prox hip, knee, upper limb)\n-Volume first before speed/intensity", Exercises:"-Active Ankle ROM\n-Banded ankle plantarflexion, inversion, eversion, dorsiflexion\n-Heel raises\n-Single leg balance", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Fracture of the patella, femur, tibia, fibula", Tissue:"Periosteum", KeyDiagnosticTests:"-Ottawa Knee Rules: Over 55, 4 steps, can't bend knee to 90 degrees, bony pain on head of fibula, patella.", TreatmentNotes:"-~8-12 wks NWB, \n-Imaging + obtain WB clearance from physician\n-Stregnthen other muscles ASAP (prox hip, knee, upper limb)\n-Volume first before speed/intensity", Exercises:"-Active Ankle ROM\n-Banded ankle plantarflexion, inversion, eversion, dorsiflexion\n-Heel raises\n-Single leg balance", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Patellar Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Focal pain on palpation\n-Fulcrum test\n-Muscle herniations\n-Pain on hop-test", TreatmentNotes:"-Refer out to physician immediatelyy\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Femoral Neck Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Running history is key\n-Fulcrum test\n-Pain on hop-test", TreatmentNotes:"-Refer out to physician immediately\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride\n-Explain complications as clients often continue to run and compete despite pain", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Ilium and Pubis Stress Fractures", Tissue:"Periosteum", KeyDiagnosticTests:"-Focal pain on palpation\n-Pain on heel-drop test or percussive test\n-Thorough running history\n-Caution for AIIS apophyseal avulsion fractures in adolescents", TreatmentNotes:"- Low-risk fracture: refer immediately if there are neurological symptoms or severe pain\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Thigh", Pathology:"Femoral Diaphysis Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Running history is key\n-Fulcrum test\n-Pain on hop-test", TreatmentNotes:"-Refer out to physician immediately\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Greater Trochanter Pain Syndrome", Tissue:"Mixed", KeyDiagnosticTests:"-Dx includes bursaopathy and tendinopathy of the glute medius\n-Painful palpation and compression along greater trochanter\n-Single leg stance\n-Pain on resisted hip abduction", TreatmentNotes:"-Focus on minimizing provoking positions (crossed legs)\n-Assess if excessive hip adduction in running is a factor\n-Rehab can push to 3/10 pain\n-Focus on plyometrics\n-Volume and hills first before speed/intensity\n-If no improvement physicians may suggest cortisone: explain risks and promote rehab over injections.", Exercises:"-Side Lying Hip Abduction, Banded Crab Walks, Split Squat, Single Leg Squat\n- Plyometrics: A-skips, C-skips, Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Pubis Stress Fracture", Tissue:"Periosteum", KeyDiagnosticTests:"-Focal pain on palpation\n-Pain on heel-drop test or percussive test\n-Thorough running history", TreatmentNotes:"- Low-risk fracture: refer immediately if there are neurological symptoms or severe pain\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Sacral Stress Fractures", Tissue:"Periosteum", KeyDiagnosticTests:"-Focal pain on palpation\n-Pain on heel-drop test or percussive test\n-Thorough running history", TreatmentNotes:"- Low-risk fracture: refer immediately if there are neurological symptoms or severe pain\n-Rule out RED-S\n-Rehab should have 0 pain\n-Volume first before speed/intensity\n-Assess footwear and stride", Exercises:"-Multidirectional heavy resistance exercises: Squats, Lunges...etc\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Pediatric", Subregion:"Pediatric", Pathology:"Legg-Calve-Perthes", Tissue:"Periosteum", KeyDiagnosticTests:"-Typically presents as hip pain in child 4-8 years\n- Antalgic gait\n- Restricted abduction/internal rotation.", TreatmentNotes:"-Urgent referral to surgical consultation for containment.\n-0 pain if planning to start running and having impact sports again.\n-Strengthen peripheral hip and lumbo-pelvic muscles.", Exercises:"-Side Lying Hip Abduction, Banded Crab Walks, Split Squat, Single Leg Squat\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Pediatric", Subregion:"Pediatric", Pathology:"Slipped Capital Femoral Epiphysis", Tissue:"Cartilage", KeyDiagnosticTests:"-Typically obsese adolescent with antalgic gait and restricted internal rotation.", TreatmentNotes:"-Urgent referral if you are diagnosing the initial complaint.\n-Sports-Med Consult for Plan, Repeat Imaging\n-0 pain during return to running", Exercises:"-Side Lying Hip Abduction, Banded Crab Walks, Split Squat, Single Leg Squat\n- Plyometrics: A-skips, C-skips, Bounding", Program:"majorInjury"},
+  {Region:"Pediatric", Subregion:"Pediatric", Pathology:"Osgood-Schlatter Syndrome", Tissue:"Tendon", KeyDiagnosticTests:"-Pain with kneeling, deep squats\n-Painful palpation along tibial tubercle", TreatmentNotes:"-Referral only needed if avulsion suspected or refractory\n- Education: Tibial tubercle apophysitis, bump is not harmful\n-Avoid loaded knee flexion past 60 degrees\n- Focus on capacity instead of load as it is often difficult to maintain a healthy load management and social schedule for adolescents in school", Exercises:"-Biking\n-Straight leg raise\n-Spanish squats to 45 degrees\n-Standing hip abduction, banded-crab walks", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Fat Pad Syndrome", Tissue:"Fat Pad", KeyDiagnosticTests:"-Important to differentiate from calcaneal stress fracture, as fat tissue is highly innervated.", TreatmentNotes:"-Offloading with heel cups or taping to desensitize may help (unclear of management)\n-Heel taping\n-0/10 pain\n-Volume before speed\n-Uphill before downill", Exercises:"", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Retrocalcaneal Bursaopathy", Tissue:"Bursa", KeyDiagnosticTests:"-Palpation helps differentiate between tendinopathy\n-Painful compression in dorsiflexion\n-Pain on resisted plantarflexion", TreatmentNotes:"-Usually identify source of compression as it may often be a shoe or a terrain issue with too much dorisflexion.", Exercises:"Cycling 15-30 min", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Fat Pad Syndrome", Tissue:"Fat Pad", KeyDiagnosticTests:"-Infrapatellar fat pad is very sensitive to pain in quick knee extension in passive range\n- May be preceded by trauma", TreatmentNotes:"-Focus on quadriceps strengthening to assist with desensitization\n- Assess stride to see if that is affecting pain\n-0/10 pain\n-Volume before speed\n-Uphill before downill", Exercises:"Unclear efficacy\n-Banded straight leg raise\n-Spanish squats\n-Leg press", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Prepatella Bursaopathy", Tissue:"Bursa", KeyDiagnosticTests:"-Painful palpation\n-Passive knee flexion \n-Resisted extension at 120 degrees", TreatmentNotes:"-Avoid hopping and impact, and deep flexion squats.", Exercises:"Cycling 15-30 min\n-Banded straight leg raise\n-Spanish squats\n-Leg press", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Fat Pad Syndrome", Tissue:"Fat Pad", KeyDiagnosticTests:"-Infrapatellar fat pad is very sensitive to pain in quick knee extension in passive range\n- May be preceded by trauma", TreatmentNotes:"-Focus on quadriceps strengthening to assist with desensitization\n- Assess stride to see if that is affecting pain\n-0/10 pain\n-Volume before speed\n-Uphill before downill", Exercises:"Unclear efficacy\n-Banded straight leg raise\n-Spanish squats\n-Leg press", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Lateral Bursaopathy", Tissue:"Bursa", KeyDiagnosticTests:"May be a directional issue on the camber for track athletes, hip adduction during running.", TreatmentNotes:"-May be a directional issue on the camber for track athletes, hip adduction during running\n-Introduce trails on flat, before progressing to uphill and downhill.\n-Speed can precede volume in this injury", Exercises:"Cycling 15-30 min\n-Banded straight leg raise\n-Spanish squats\n-Leg press", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Inter-Metatarsal Pain", Tissue:"Cartilage", KeyDiagnosticTests:"-Painful palpation on MTP joint spaces\n-Painful with toe walking", TreatmentNotes:"-Assess shoe's toe box to see if it is too narrow\n-Increase forefoot joint mobility", Exercises:"-Barefoot walking\n-Barefoot hopping\n-Barefoot running", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Talocalcaneal Joint Pain", Tissue:"Cartilage", KeyDiagnosticTests:"-Pain in inversion and eversion\n-Heel percussion test", TreatmentNotes:"-Activity modification avoiding forced plantarflexion during trail running \n-May have had previous persistent ligament laxity\n-May need to consult surgical opinion if refractory \n-Volume before speed", Exercises:"-Single leg stand on uneven surface\n-Banded inversion eversion\n-Ankle bounces\n-A-skip\n-Bounding", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Posterior Ankle Impingement", Tissue:"Cartilage", KeyDiagnosticTests:"-Posterior ankle pain with plantarflexion\n-Heel thrust test", TreatmentNotes:"-Modify activities first to avoid irritating cartilage ie downhills, aggressive plantar flexion\n-Surgical and imaging referral if refractory to 3-6 months conservative care\n-Volume before speed", Exercises:"-Single leg stand on uneven surface\n-Banded inversion eversion\n-Ankle bounces\n-A-skip\n-Bounding", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Tibiofemoral Arthritis", Tissue:"Cartilage", KeyDiagnosticTests:"-Hypertrophic changes in knee observed\n-Reduced range in flexion and extension\n-Subjective history", TreatmentNotes:"-Avoid hopping and impact, and deep flexion squats\n-Promote cycling, progress with running drills before running\n-Swelling via swipe test may be an indicator of overloading the structures during a session\n-Volume before speed\n-Run/Walk Intervals", Exercises:"-Straight leg raise\n-Hip Abduction\n-Spanish squats\n-Decline squats", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Meniscus Injury", Tissue:"Cartilage", KeyDiagnosticTests:"-Limited knee flexion and crouching\n-Thessaly's Test\n-Painful palpation", TreatmentNotes:"-Make sure to help client understand between age-related meniscal tears (horizontal, asymptomatic) vs traumatic (ie bucket handle radial, that are symptomatic)\n- Do not hesistate to refer for Sports MD consult and imaging if symptoms do not improve in 2-3 weeks of treatment and locking-catching symptoms persist.\n-Volume before speed\n-Run/Walk Interavals", Exercises:"-Straight leg raise\n-Hip Abduction\n-Spanish squats\n-Decline squats", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Medial Knee Pain", Pathology:"Patellofemoral Pain", Tissue:"Mixed", KeyDiagnosticTests:"-Painful palpation\n-Resisted knee extension 30-60 degrees\n-Pain with sitting or with stairs", TreatmentNotes:"-Assess stride, cadence and foot strike angle\n-Volume before speed\n-Taping may be helpful", Exercises:"-Spanish squats\n-Banded Crab Walks\n-Lunges\n-A-Skips\n-Bounding", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Medial Knee Pain", Pathology:"Medial Patella Plica Syndrome", Tissue:"Cartilage", KeyDiagnosticTests:"-Rare injury and overdiagnosed\n-Medial Patella Plica Test (knee flexion + shift patella medially and pinch plica)\n-Often from blunt trauma", TreatmentNotes:"-Initially protect by avoiding painful knee ranges\n-Desensitize with exercises and then progress with loading (?)\n-Volume before speed \n-Assess stride", Exercises:"-15 to 30 min of cycling\n-Banded Crab Walks\n-Lunges\n-A-Skips\n-Bounding", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Medial Knee Pain", Pathology:"Medial Meniscus Injury", Tissue:"Cartilage", KeyDiagnosticTests:"-Limited knee flexion and crouching\n-Thessaly's Test\n-Painful palpation", TreatmentNotes:"-Make sure to help client understand between age-related meniscal tears (horizontal, asymptomatic) vs traumatic (ie bucket handle radial, that are symptomatic)\n- Do not hesistate to refer for Sports MD consult and imaging if symptoms do not improve in 2-3 weeks of treatment and locking-catching symptoms persist.\n-Volume before speed\n-Run/Walk Interavals\n-2/10 pain\n-No swelling and resolution of symptoms within 60 min of run", Exercises:"-Straight leg raise\n-Hip Abduction\n-Spanish squats\n-Decline squats", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Medial Knee Pain", Pathology:"Tibiofemoral Arthritis", Tissue:"Cartilage", KeyDiagnosticTests:"-Hypertrophic changes in knee observed\n-Reduced range in flexion and extension\n-Subjective history", TreatmentNotes:"-Avoid hopping and impact, and deep flexion squats\n-Promote cycling, progress with running drills before running\n-Swelling via swipe test may be an indicator of overloading the structures during a session", Exercises:"-Straight leg raise\n-Hip Abduction\n-Spanish squats\n-Decline squats", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Baker's Cyst", Tissue:"Cartilage", KeyDiagnosticTests:"-Foucher's Sign\n-Large cyst observed in posterior knee\n-Painful palpation", TreatmentNotes:"-Investigate root cause of cyst, synovial outpouching related to joint.", Exercises:"-15 to 30 min of cycling", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Lateral Meniscus Injury", Tissue:"Cartilage", KeyDiagnosticTests:"-Limited knee flexion and crouching\n-Thessaly's Test\n-Painful palpation", TreatmentNotes:"-Make sure to help client understand between age-related meniscal tears (horizontal, asymptomatic) vs traumatic (ie bucket handle radial, that are symptomatic)\n- Do not hesistate to refer for Sports MD consult and imaging if symptoms do not improve in 2-3 weeks of treatment and locking-catching symptoms persist.\n-Volume before speed\n-Run/Walk Interavals\n-2/10 pain\n-No swelling and resolution of symptoms within 60 min of run", Exercises:"-Straight leg raise\n-Hip Abduction\n-Spanish squats\n-Decline squats", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Femoral Acetabular Impingement", Tissue:"Cartilage", KeyDiagnosticTests:"-Running history\n-Imaging \n-Reduced internal rotation and FADDIR", TreatmentNotes:"-Progress with running and exercises that are symptom free and not within impingement positions\n-Referral for surgical/sport MD consult if activity-limiting symptoms despite PT\n-No strong relationship between FAI and hip-OA but avoid pain provoking movements if able.\n-Avoid hills in beginning of return-to-running", Exercises:"-Supine banded hip flexion\n-Standing banded hip flexion\n-Prone  banded hip flexion\n- A-skips", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Coxofemoral Arthritis", Tissue:"Cartilage", KeyDiagnosticTests:"-Pain limited range for internal rotation, flexion and abduction\n-Subjective history for gradual onset, morning stiffness\n-FABER, FADDIR", TreatmentNotes:"-Monitor for restricted range of motion after activity and running\n-Caution for impact, and deep flexion, internal rotation and adduction of hip.\n-2/10 pain\n-No swelling and resolution of symptoms within 60 min of run", Exercises:"-Standing Hip abduction\n-Standing Hip extension\n-Banded Crab-Walks\n-Banded Hip Flexion Standing", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Thigh", Pathology:"Coxofemoral Arthritis", Tissue:"Cartilage", KeyDiagnosticTests:"-Pain limited range for internal rotation, flexion and abduction\n-Subjective history for gradual onset, morning stiffness\n-FABER, FADDIR", TreatmentNotes:"-Monitor for restricted range of motion after activity and running\n-Caution for impact, and deep flexion, internal rotation and adduction of hip.\n-2/10 pain\n-No swelling and resolution of symptoms within 60 min of run", Exercises:"-Standing Hip abduction\n-Standing Hip extension\n-Banded Crab-Walks\n-Banded Hip Flexion Standing", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Coxofemoral Arthritis", Tissue:"Cartilage", KeyDiagnosticTests:"-Pain limited range for internal rotation, flexion and abduction\n-Subjective history for gradual onset, morning stiffness\n-FABER, FADDIR", TreatmentNotes:"-Monitor for restricted range of motion after activity and running\n-Caution for impact, and deep flexion, internal rotation and adduction of hip.\n-2/10 pain\n-No swelling and resolution of symptoms within 60 min of run", Exercises:"-Standing Hip abduction\n-Standing Hip extension\n-Banded Crab-Walks\n-Banded Hip Flexion Standing", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Pubic symphysitis", Tissue:"Cartilage", KeyDiagnosticTests:"-Painful palpation on pubis\n-Resisted adduction\n-Gaenslen Test", TreatmentNotes:"-Monitor during pregnancy and post-partum\n-Focus on core stabilizing exercises and progress them to functional exercises\n-0/10 pain", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Sacroiliac pain", Tissue:"Cartilage", KeyDiagnosticTests:"-Painful palpation\n-Thigh Thrust\n-FABER", TreatmentNotes:"-Monitor during pregnancy and post-partum.\n-Focus on core stabilizing exercises and progress them to functional exercises\n-0/10 pain", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Plantar Foot", Pathology:"Midfoot Sprain", Tissue:"Ligament", KeyDiagnosticTests:"-Painful palpation on T-MT joints\n-Painful hopping and weight bearing\n-Ecchymosis on plantarfoot", TreatmentNotes:"-Likely will need a brace \n-Query 6-8 weeks of rehabilitation\n-Progress from static stability, to dynamic and plyometric stability\n-Maintain mobility of mid-foot joints", Exercises:"-Plantarflexion isometric\n-Heel raises\n-Walk/Hop Barefoot\n-Running Drills\n-Bounding", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Ankle Syndesmosis Sprain", Tissue:"Ligament", KeyDiagnosticTests:"-Squeeze Test\n-Painful palpation\n-Dorsiflexion + External Rotation Test", TreatmentNotes:"-Focus on ankle stability on unstable surfaces\n-Progress if no feeling of instability\n-2/10 pain acceptable\n-Progress on flat surfaces before hills\n-Volume before speed", Exercises:"-Body weight squat\n-Split Squat\n-Single Leg Squat\n-Ankle Skip\n-Bounding", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Anterior Cruciate Ligament", Tissue:"Ligament", KeyDiagnosticTests:"-Lachman's Test\n-Anterior Drawer Test", TreatmentNotes:"-Follow up closely with surgeon and protocol\n-Volume before speed\n-Assess stride and cadence\n-2/10 pain\n-No swelling and resolution of symptoms within 60 min of run", Exercises:"-Follow recon protocol if post-op\n-Cycling 15-30 min\n-Wall squat + ball\n-Banded Prone Knee Bend\n-Lateral step up/down\n-Lateral step and jump", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Posterior Cruciate Ligament", Tissue:"Ligament", KeyDiagnosticTests:"-Posterior Sag Test\n-Posterior Drawer Test", TreatmentNotes:"-Follow up closely with surgeon and protocol\n-Volume before speed\n-Assess stride and cadence\n-2/10 pain\n-No swelling and resolution of symptoms within 60 min of run", Exercises:"-Follow recon protocol if post-op\n-Cycling 15-30 min\n-Wall squat + ball\n-Banded Prone Knee Bend\n-Lateral step up/down\n-Lateral step and jump", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Medial Knee Pain", Pathology:"Medial Collateral Ligament", Tissue:"Ligament", KeyDiagnosticTests:"-Valgus stress test\n-Pain with end range flexion, extension", TreatmentNotes:"-May require brace and follow up with Sports Med depending on grade.\n-Volume before speed\n-2/10 pain\n-No swelling and resolution of symptoms within 60 min of run", Exercises:"-Cycling 15-30 min\n-Wall squat + ball\n-Lateral step up/down\n-Lateral step and jump", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Lateral Collateral Ligament", Tissue:"Ligament", KeyDiagnosticTests:"-Varus stress test\n-Pain with end range flexion and extension", TreatmentNotes:"-May require brace and follow up with Sports Med depending on grade.\n-Volume before speed\n-2/10 pain\n-No swelling and resolution of symptoms within 60 min of run", Exercises:"-Cycling 15-30 min\n-Wall squat + ball\n-Lateral step up/down\n-Lateral step and jump", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Coronary Ligament", Tissue:"Ligament", KeyDiagnosticTests:"-May often present as a meniscus injury\n-Limited knee flexion and crouching\n-Thessaly's Test\n-Painful palpation of joint line", TreatmentNotes:"-Follow up with MD if there is ongoing knee instability and pain\n-Volume before speed\n-Run/Walk Interavals", Exercises:"-Straight leg raise\n-Banded prone knee bends\n-Spanish squats\n-Nordics", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Lateral Retinaculum", Tissue:"Ligament", KeyDiagnosticTests:"-Lateral pain with Nobel's Test\n-Retinaculum Tension Test", TreatmentNotes:"-Unlikely to be an isolated cause of lateral knee pain but could be a factor as IT band may insert there\n-Taping may improve pain as a placebo(?)\n-Speed can take precede over volume\n-Try trails or different directions to avoid impingement\n-Assess stride to see if hip adduction is a factor", Exercises:"-Medial bias wall squats (?)", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Sacrotuberous Ligament", Tissue:"Ligament", KeyDiagnosticTests:"-Painful palpation near ischial tuberosity\n- Thigh Thrust\n-FABER", TreatmentNotes:"-Ensure single leg stability, and adductor muscles are strong enough to asborp impact forces.\n-Monitor for pain and instability during running\n-Assess stride\n-Volume before speed", Exercises:"-Hip Abduction\n-Hip Extension\n-Split Squats\n-Single Leg Bridge\n-Hopping", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Labral injury", Tissue:"Ligament", KeyDiagnosticTests:"-Subjective history more important as provocative tests are highly rated\n-FADIR\n-Fitzgerald\n-FABER", TreatmentNotes:"-Ensure single leg stability, and adductor muscles are strong enough to asborp impact forces.\n-Monitor for pain and instability during running\n-Assess stride\n-Volume before speed", Exercises:"-Hip Abduction\n-Hip Extension\n-Split Squats\n-Single Leg Bridge\n-Hopping", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Superior and Inferior Pubic Ligaments", Tissue:"Ligament", KeyDiagnosticTests:"-Rule out pubic symphisitis\n-Pubic spring Test\n-Resisted Hip Adduction\n-Lateral compression", TreatmentNotes:"-Assess stride and cadence\n-Begin on flat surfaces before hills\n-Volume before speed\n-Cross training (no breaststroke)", Exercises:"-Hip adduction\n-Banded Hip flexion\n-Banded Hip Internal Rotation\n-Copenhagen Plank", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Inguinal Ligament", Tissue:"Ligament", KeyDiagnosticTests:"-Bulge/Cough Test to Rule Out Hernia\n-Resisted Hip Adduction", TreatmentNotes:"-Assess stride and cadence\n-Begin on flat surfaces before hills\n-Volume before speed\n-Cross training (no breaststroke)", Exercises:"-Hip adduction\n-Banded Hip flexion\n-Banded Hip Internal Rotation\n-Copenhagen Plank", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Dorsal Interossei", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted toe abduction", TreatmentNotes:"-Assess for more cushioned footwear temporarily\n-Walk/Run Intervals\n-Self massage", Exercises:"-Short foot exercise\n-Banded toe abduction\n-Single leg stand\n-Barefoot running", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Foot", Pathology:"Plantar Interossei", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted toe adduction\n-Squeeze Test", TreatmentNotes:"-Assess footwear to see what is compressing the interossei\n-Maintain foot joint mobility\n-Self massage", Exercises:"-Short foot exercise\n-Single leg stand\n-Barefoot running", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Quadratus Plantae", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted hallucis flexion\n-Rule of plantar fasciopathy", TreatmentNotes:"-Activity modification: focus on walk/run intervals\n-Self massage\n-Assess for more cushioned shoes", Exercises:"-Short foot exercise\n-Single leg stand\n-Single leg heel-raise\n-Barefoot running", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Chronic Exertional Compartment Syndrome", Tissue:"Fascia", KeyDiagnosticTests:"-Subjective history: pain with exertion, improved with rest\n-Palpation of muscle hernias\n-Deep peroneal nerve entrapment", TreatmentNotes:"-Try reducing heel-to-ground angle via forefoot strike  \n-Do not promote surgical fasciotomy as it will not resolve the underlying issues of biomechanics.\n-Walk/Run Intervals\n-Avoid hills until symptoms resolve for significant volume\n-0/10 pain", Exercises:"-Single leg stand\n-Single leg heel-raise\n-Barefoot running", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Dorsiflexor Myofascial Pain", Tissue:"Myofascial", KeyDiagnosticTests:"-Resisted dorsiflexion\n-Running history: downhill pain\n-Painful palpation", TreatmentNotes:"-Try reducing heel-to-ground angle via cadence\n-Walk/Run Intervals\n-Avoid hills until symptoms resolve for significant volume", Exercises:"-Banded ankle dorsiflexion", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Chronic Exertional Compartment Syndrome", Tissue:"Fascia", KeyDiagnosticTests:"-Subjective history: pain with exertion, improved with rest\n-Palpation of muscle hernias\n-Tibial nerve entrapment", TreatmentNotes:"-Assess stride and increase cadence\n-Walk/Run Intervals\n-Avoid hills until symptoms resolve for significant volume\n-0/10 pain", Exercises:"-Single leg stand\n-Single leg heel-raise\n-Barefoot running", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Triceps Surae", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful ankle dorsiflexion\n-Resisted plantarflexion (knee flexion + extension)\n-Painful palpation", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Heel raises + Weight\n-Heel raises + Deficit\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Popliteus", Tissue:"Myofascial", KeyDiagnosticTests:"-Rare running injury\n-Painful palpation\n-Resisted knee flexion (20 degrees) + tibial internal rotation", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Heel slides\n-Banded prone knee bend + tibial internal rotation\n-Forward Lunges\n-Lateral Lunges", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Plantaris", Tissue:"Myofascial", KeyDiagnosticTests:"-Rare running injury\n-Painful palpation\n-Painful ankle dorsiflexion + knee extension\n-Resisted plantarflexion + knee extension", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Heel raises + Weight\n-Single heel raises Deficit\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Upper Gastrocnemius", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Painful ankle dorsiflexion + knee extension\n-Resisted plantarflexion + knee extension", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Heel raises + Weight\n-Single heel raises Deficit\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Biceps femoris", Tissue:"Myofascial", KeyDiagnosticTests:"-Resisted knee flexion \n-Painful knee extension + hip flexion\n-Painful palpation\n-Running history: sprinting, speedwork, hills", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen entire ROM \n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Long lever bridge\n-Banded prone knee bend\n-Weighted single leg long lever bridge\n-Nordics", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Popliteus", Tissue:"Myofascial", KeyDiagnosticTests:"-Rare running injury\n-Painful palpation\n-Resisted knee flexion (20 degrees) + tibial internal rotation", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Heel slides\n-Banded prone knee bend + tibial internal rotation\n-Forward Lunges\n-Lateral Lunges", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Tibialis Anterior", Tissue:"Myofascial", KeyDiagnosticTests:"-Resisted dorsiflexion\n-Running history: downhill pain\n-Painful palpation", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Try reducing heel-to-ground angle via cadence\n-Walk/Run Intervals\n-Avoid hills until symptoms resolve for significant volume", Exercises:"-Banded dorsiflexion\n-Weighted dorsiflexion\n-Hopping with toes extended", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Fibularis Longus", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted eversion", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Banded ankle eversion\n-Single Leg Stance + Band Pulled Medially", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Vastus lateralis", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted knee extension", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before downhill", Exercises:"-Banded knee extension/flexion, \n-Squats, \n-Lunges\n-Reverse Nordics\n-Downhill Running", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Soleus", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted plantarflexion + knee flexion", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"Seated plantarflexion + weight\nSingle Leg Heel Raise + Deficit\nA-Skips\nBounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Internal obliques, Transversus, Rectus Abdominis", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted trunk flexion\n-Painful trunk extension", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Diaphragmatic breathing\n-Deadbug\n-Single glute bridges\n-Bridge on ball", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Thigh", Pathology:"Quadriceps", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted knee extension\n-Painful quadriceps stretch", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Banded knee extension/flexion, \n-Squats, \n-Lunges\n-Reverse Nordics\n-Downhill Running", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Glute Minimus & Tensor Fascia Lata", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted hip abduction with tibial internal rotation", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Banded Hip Abduction + Toe Down\n-Banded Crabwalks\n-Single Leg Squat + Deficit\n-Lateral Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Piriformis", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted hip external rotation\n-FAIR Test", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Banded Clamshell\n-Banded Crabwalks\n-Single Leg Squat + Deficit\n-Lateral Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Piriformis", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted hip external rotation\n-FAIR Test", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Banded Clamshell\n-Banded Crabwalks\n-Single Leg Squat + Deficit\n-Lateral Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Gemelli & Quadratus Femoris", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted hip external rotation", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Banded Clamshell\n-Banded Crabwalks\n-Single Leg Squat + Deficit\n-Lateral Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Gemelli & Quadratus Femoris", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted hip external rotation", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Banded Clamshell\n-Banded Crabwalks\n-Single Leg Squat + Deficit\n-Lateral Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"External Oblique Aponeurosis Tear", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted contralateral shoulder for trunk flexion (internal ipsilateral, external contralateral)", TreatmentNotes:"-Start exercises and gentle running within 2 days\n-4/10 pain acceptable\n-Strengthen trunk muscles\n-Volume before speed\n-Assess stride\n-Flat ground before hills", Exercises:"-Diaphragmatic breathing\n-Deadbug\n-Single glute bridges\n-Bridge on ball", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Glute Maximus", Tissue:"Myofascial", KeyDiagnosticTests:"-Painful palpation\n-Resisted hip extension", TreatmentNotes:"-Challenging injury to manage since the surface area is so large and is exposed in hip flexion/compression (sitting) and in hip extension (standing, walking, running).\n-May require sleeping in prone or side-lying and avoiding any symptomatic sitting until pain is tolerable\n-2/10 pain \n-Volume before speed\n-Flat before hills", Exercises:"-Long lever bridge\n-Foot elevated bridge\n-Romanian Deadlift\n-Bounding\n-A skips", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Foot", Pathology:"Interdigital Neuroma", Tissue:"Nerve", KeyDiagnosticTests:"-Most frequent nerve entrapment; Morton's Neuroma. Compression of the interdigital nerves usually between the 3rd and 4th toes\n-Squeeze test", TreatmentNotes:"-Examine shoe to see if the toe box or toe-off in running is a culprit\n-Hallux valgus or a hypermobile 1st MTP may form calluses leading to a more narrow toe box and compression.\n-Decrease dorsiflexion, increase forefoot and interdigital mobility, try wider shoes\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Short foot exercise\n-Banded toe abduction\n-Single leg stand\n-Barefoot running", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Lateral Sural Nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Rare entrapment: SN is formed by the tibial and common peroneal nerve but may mimic gastrocnemius pain but tends to radiate past lateral malleolis and the 5th MTP.\n-Neurodynamic Test: Hip flexion, knee extension, ankle dorsiflexion, foot inversion\n-Running History: Burning pain...etc", TreatmentNotes:"-Modify footwear according to symptoms, heel lift if pain in dorisflexion or medial arch if in pronation\n-Identify provocations in running assessment and remove compression\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Nerve sliders: Hip flexion, knee extension, ankle dorsiflexion, foot inversion", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Tarsal Tunnel Syndrome", Tissue:"Nerve", KeyDiagnosticTests:"-Rule out referred pain from sciatic nerve\n-Neurodynamic Test: Hip flexion, knee extension, ankle dorsiflexion, foot eversion and toe extension\n-Running History: Burning pain...etc\n-Tinels'", TreatmentNotes:"-Modify footwear according to symptoms, heel lift if pain in dorisflexion or medial arch if in pronation\n-Identify provocations in running assessment and remove compression\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Nerve sliders: Hip flexion, knee extension, ankle dorsiflexion, foot eversion and toe extension", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Superficial Peroneal Nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Pain is usually a diffuse ache over the sinus tarsi\n-Dorsiflexion + Eversion + Tinel's\n-History of chronic ankle sprains is a risk factor.", TreatmentNotes:"-Rehab on ankle instability, proprioception \n-Modify footwear if needed\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Single leg heel raise\n-Single Leg stand\n-Nerve sliders: Hip flexion + hip internal rotation, knee extension, ankle plantarflexion, foot inversion and toe flexion", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Deep Peroneal Nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Entrapment may occur on the EHL and the extensor retinaculum, or osteophytes \n-Painful palpation on in the 1st web space\n-Rule out compartment syndrome", TreatmentNotes:"-Footwear changes to avoid direct pressure \n-Try to reduce footstrike angle, hills \n-May require prolonged walk run intervals and sports med referal\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Nerve sliders: Hip flexion + hip internal rotation, knee extension, ankle plantarflexion, foot inversion and toe flexion", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Plantar Foot", Pathology:"Lateral plantar nerve (Baxter's Nerve)", Tissue:"Nerve", KeyDiagnosticTests:"-Neurodynamic Testing: Hip flexion + hip internal rotation, knee extension, ankle plantarflexion, foot inversion and toe flexion\n-Tinel's\n-Usually only the 1st branch LPN and it ends up on the quadratus plantae and abductor hallucis. Pain along the 4th and 5th toes\n-Pronation tends to irritate it during running. Important to differentiate from plantar fasciopathy as the pain is superior to the aponeurosis origin", TreatmentNotes:"-Heel cups are helpful, ankle stability exercises are important as well as barefoot drills and running.\n-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Nerve sliders: Hip flexion + hip internal rotation, knee extension, ankle plantarflexion, foot inversion and toe flexion\n-Single Leg Standing + Band Pulled Laterally\n-A-Skip", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Plantar Foot", Pathology:"Saphenous nerve", Tissue:"Nerve", KeyDiagnosticTests:"--Neurodynamic Testing: hip extension, abduction, external rotation, knee extension and then ankle dorsiflexion and foot eversion\n-May mimic tibial stress fracture on foot pain\n-Tinel's", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-Nerve glides may help desensitize tissue\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Nerve sliders: Hip external rotation, extension, abduction, knee extension, ankle dorsiflexion, foot eversion\n-Single Leg Standing + Band Pulled Medially\n-A-Skip", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Plantar Foot", Pathology:"Medial plantar nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Branches of this nerve will branch out to 1st-3rd web spaces\n-Pain along the medial heel and longitudinal arch, but more central\n-Entrapment occurs at abductor hallucis or FHL either internally by hypertrophy of the muscle or external compression via footwear", TreatmentNotes:"-Desensitize tissue via modifying shoe or orthotics and increasing ankle stability, or improving running mechanics.\n-Hallucis rigidis may be a factor to MPN pain as well\n-Assess footwear for a tight toebox\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Single Leg Standing + Band Pulled Laterally\n-A-Skip", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Infrapatellar branch of the saphenous nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Neurodynamic Testing: Prone Hip external rotation, extension, abduction, knee extension, ankle dorsiflexion, foot eversion\n-Innervates the medial patella from the saphenous nerve", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-Nerve glides may help desensitize tissue\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Nerve sliders: Hip external rotation, extension, abduction, knee extension, ankle dorsiflexion, foot eversion", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Medial Knee Pain", Pathology:"Saphenous nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Neurodynamic Testing: hip extension, abduction, external rotation, knee extension and then ankle dorsiflexion and foot eversion\n-Pain may sometimes be aggravated by a pes anserine bursa\n-Any strength or motor deficits should rule out this diagnosis. Most exposed in the Hunter adductor canal coursing the sartorius.", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-Nerve glides may help desensitize tissue\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Nerve sliders: Hip external rotation, extension, abduction, knee extension, ankle dorsiflexion, foot eversion", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Lateral Femoral Cutaneous Nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Rare nerve injury\n-Neurodynamic Testing: hip extension, knee flexion and then hip adduction\n-Tinel's\n-Any strength or motor deficits should rule out this diagnosis", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-Nerve glides may help desensitize tissue\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Nerve sliders: Hip extension, knee flexion and then hip adduction", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Common Peroneal Nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Neurodynamic Testing: Prone hip extension + adduction, knee flexion\n-Most common lateral nerve injury in runners but is self limiting", TreatmentNotes:"-Refer out if symptoms or weakness worsen or recalcitrant\n-Nerve glides may help desensitize tissue\n-0/10 pain before progressing\n-Volume before speed\n-Avoid running downhill, or a combination of plantarflexion and inversion if symptomatic", Exercises:"-Nerve sliders: Prone hip extension + adduction, knee flexion\n-Single Leg Standing + Pulling Band Medially\n-Banded Dorsiflexion", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Iliohypogastric, ilioinguinal, genitofemoral nerve entrapment", Tissue:"Nerve", KeyDiagnosticTests:"-Painful palpation along ASIS\n-May mimic a sports hernia\n-Subjective History", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed\n-May require a surgical consultation if anatomical variations are making it susceptible for entrapment and conservative treatment is not working", Exercises:"", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Femoral nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Neurodynamic Testing: Prone hip extension, knee flexion\n-Subjective History", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed\n-Flat surface before hills\n-Identify other factors that may be entraping the nerve", Exercises:"-Nerve sliders: Prone hip extension, knee flexion", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Meralgia Paresthetica (Lateral Femoral Cutaneous Nerve)", Tissue:"Nerve", KeyDiagnosticTests:"-Painful palpation\n-Tinel's\n-Neurodynamic Testing: Hip extension, knee flexion, hip adduction\n-Subjective History", TreatmentNotes:"-Rare injury, not much known from the literature \n-Identify factors that are causing compression of the nerve\n-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Thigh", Pathology:"Meralgia Paresthetica (Lateral Femoral Cutaneous Nerve)", Tissue:"Nerve", KeyDiagnosticTests:"-Painful palpation\n-Tinel's\n-Neurodynamic Testing: Hip extension, knee flexion, hip adduction\n-Subjective History", TreatmentNotes:"-Rare injury, not much known from the literature \n-Identify factors that are causing compression of the nerve\n-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Thigh", Pathology:"Cruralgia (Femoral nerve roots L2-L4)", Tissue:"Nerve", KeyDiagnosticTests:"-Myotomes L2-L4\n-Dermatomes L2-L4\n-L3/L4 Reflex\n-Neurodynamic Testing: Hip extension, knee flexion", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed\n-Strengthen trunk and legs", Exercises:"-Supine Bridge\n-Banded Hip Flexion\n-Banded Knee Extension\n-Banded Ankle Dorsiflexion\n-Squat\n-Lunge", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Thigh", Pathology:"Posterior Femoral Cutaneous Nerve", Tissue:"Nerve", KeyDiagnosticTests:"-May be compressed by piriformis\n-Tinel's\n-Subjective History", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Clamshells\n-Banded Crabwalks", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Thigh", Pathology:"Obturator Nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Differentiate from inguinal ligament and adductors\n-Subjective History\n-Resisted hip adduction\n-Neurodynamic Testing: Prone hip extension + abduction, knee flexion", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Nerve sliders: Prone hip extension + abduction, knee flexion\n-Hip adduction\n-Trunk stability", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Cluneal nerves (T11-S4)", Tissue:"Nerve", KeyDiagnosticTests:"-Subjective history\n-Rule out resisted hip extension, abduction, external rotation", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Hip extension\n-Squats\n-Lunges\n-Trunk stability", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Meralgia Paresthetica (Lateral Femoral Cutaneous Nerve)", Tissue:"Nerve", KeyDiagnosticTests:"-Painful palpation\n-Tinel's\n-Neurodynamic Testing: Hip extension, knee flexion, hip adduction\n-Subjective History", TreatmentNotes:"-Rare injury, not much known from the literature \n-Identify factors that are causing compression of the nerve\n-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Hip extension\n-Squats\n-Lunges\n-Trunk stability", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Ilioinguinal & Iliohypogastric", Tissue:"Nerve", KeyDiagnosticTests:"-Painful palpation\n-Tinel's\n-Subjective History", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant (nerve entraped by anatomic adhesions)\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Supine Bridge\n-Banded Hip Flexion\n-Squat\n-Lunge", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Genito-femoral Nerve (L1-L2)", Tissue:"Nerve", KeyDiagnosticTests:"-Rule out referred pain from low back\n-Subjective history: hernia, surgery, trauma", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed\n-Treat low back pain if appropriate", Exercises:"-Supine Bridge\n-Banded Hip Flexion\n-Squat\n-Lunge", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Iliohypogastric Nerve", Tissue:"Nerve", KeyDiagnosticTests:"-Painful palpation\n-Tinel's\n-Subjective History", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Supine Bridge\n-Banded Hip Flexion\n-Squat\n-Lunge", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Cluneal nerves (T11-S4)", Tissue:"Nerve", KeyDiagnosticTests:"-Subjective history\n-Rule out resisted hip extension, abduction, external rotation\n-Includes (inferior, superior and posterior)", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Hip extension\n-Squats\n-Lunges\n-Trunk stability", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Posterior Femoral Cutaneous Nerve", Tissue:"Nerve", KeyDiagnosticTests:"-May be compressed by piriformis\n-Tinel's\n-Subjective History", TreatmentNotes:"-Refer out if symptoms worsen or recalcitrant\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Clamshells\n-Banded Crabwalks", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Referred pain from L4-S1 segments", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Slump\n-Straight Leg Raise\n-Repeated Lumbar Flexion/Extension\n-Subjective History\n-Myotomes/Dermatomes", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Radiculopathy L5-S1", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Slump\n-Straight Leg Raise\n-Repeated Lumbar Flexion/Extension\n-Subjective History\n-Myotomes/Dermatomes", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Radiculopathy L4-S1", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Slump\n-Straight Leg Raise\n-Repeated Lumbar Flexion/Extension\n-Subjective History\n-Myotomes/Dermatomes", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Referred pain from L4/L5 nerve roots", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Slump\n-Straight Leg Raise\n-Repeated Lumbar Flexion/Extension\n-Subjective History\n-Myotomes/Dermatomes", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Medial Knee Pain", Pathology:"L3-L4 referred pain", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Slump\n-Repeated Lumbar Flexion/Extension\n-Subjective History\n-Myotomes/Dermatomes", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Sciatica (S1/S2 nerve roots)", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Slump\n-Repeated Lumbar Flexion/Extension\n-Subjective History\n-Myotomes/Dermatomes\n-FAIR for piriformis impingement", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Referred Pain L5", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Slump\n-Straight Leg Raise\n-Repeated Lumbar Flexion/Extension\n-Subjective History\n-Myotomes/Dermatomes", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Referred pain from L4-S1", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Slump\n-Straight Leg Raise\n-Repeated Lumbar Flexion/Extension\n-Subjective History\n-Myotomes/Dermatomes", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Maigne Syndrome (T12-L2)", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Tinels\n-Subjective history", TreatmentNotes:"-Identify any compression on the affected area\n-Refer to physician if not improving", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Referred lumbar pain L4-S1", Tissue:"Referred / Spine", KeyDiagnosticTests:"-Slump\n-Straight Leg Raise\n-Repeated Lumbar Flexion/Extension\n-Subjective History\n-Myotomes/Dermatomes", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Pelvic tilt\n-Deadbug\n-Single leg bridge\n-Bridge on ball\n-Side plank", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Tenosynovitis (Extensor Tendons)", Tissue:"Tendon", KeyDiagnosticTests:"-Resisted toe extension\n-Painful ROM in toe flexion", TreatmentNotes:"-Identify factors such as too tight or a shoe tongue, toe box or downhill running\n-Address the edema that can cause compression in a trail race over time", Exercises:"-Resisted toe extension\n-Hopping barefoot\n-Running barefoot\n-B skips", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Tibialis Anterior Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Painful passive ankle plantarflexion and inversion\n-Resisted dorsiflexion and eversion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Banded Ankle Dorsiflexion\n-Ankle Bounces Toes Up\n-A-Skips Toes Up", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Extensor Hallucis Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted hallucis extension from flexion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Toe extension isometric\n-Banded toe extension\n-Single Leg Heel Raise\n-A-Skips Toes Up", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Extensor Hallucis Brevis Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted hallucis extension from flexion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Toe extension isometric\n-Banded toe extension\n-Single Leg Heel Raise\n-A-Skips Toes Up", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Extensor Digitorum Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted toes 2-5 extension from flexion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Toe extension isometric\n-Banded toe extension\n-Single Leg Heel Raise\n-A-Skips Toes Up", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Extensor Digitorum Brevis Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted toes 2-5 extension from flexion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Toe extension isometric\n-Banded toe extension\n-Single Leg Heel Raise\n-A-Skips Toes Up", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Plantar fasciopathy", Tissue:"Fascia", KeyDiagnosticTests:"-Painful palpation\n-Windlass Test\n-Subjective History: AM stiffness", TreatmentNotes:"-Many runners will want to protect the foot with thicker shoes instead of progressively loading it due to pain\n-2/10 pain but no morning pain day after run\n-Emphasize Run/Walk Intervals\n-Volume before speed\n-Assess stride and cadence\n-Rare case for the shockwave machine to desensitize, but this can be substituted with a lacross ball", Exercises:"-Single leg balance\n-Single leg heel raise\n-Inch-Worm\n-Barefoot Ankle Bounce Toes Up\n-Barefoot Run 1 min", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Fibularis Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted 1st MTP", TreatmentNotes:"-Avoid compressing tendon via inversion, suggest to run on opposite direction of camber if able\n-Volume before speed\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Body Weight Squat\n-Step Up\n-Step Down\n-Lateral Step Down\n-Hopping off step", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Fibularis Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted 1st MTP", TreatmentNotes:"-Avoid compressing tendon via inversion, suggest to run on opposite direction of camber if able\n-Volume before speed\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Body Weight Squat\n-Step Up\n-Step Down\n-Lateral Step Down\n-Hopping off step", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Fibularis Brevis Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted ankle eversion + plantarflexion", TreatmentNotes:"-Avoid compressing tendon via inversion, suggest to run on opposite direction of camber if able\n-Volume before speed\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Body Weight Squat\n-Step Up\n-Step Down\n-Lateral Step Down\n-Hopping off step", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Fibularis Brevis Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted ankle eversion + plantarflexion", TreatmentNotes:"-Avoid compressing tendon via inversion, suggest to run on opposite direction of camber if able\n-Volume before speed\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Body Weight Squat\n-Step Up\n-Step Down\n-Lateral Step Down\n-Hopping off step", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Flexor Digitorum Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted toe flexion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Toe flexion isometric\n-Toe flexion banded\n-Medial Biased Calf Raise\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Flexor Digitorum Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted toe flexion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Toe flexion isometric\n-Toe flexion banded\n-Medial Biased Calf Raise\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Abductor Hallucis Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted toe abduction", TreatmentNotes:"-Volume before speed\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Banded toe side steps", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Abductor Digiti Minimi Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted toe abduction", TreatmentNotes:"-Volume before speed\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Banded toe splaying", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Achilles Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Differentiate between insertion and midportion\n-Painful palpation\n-Royal Hospital London Test\n-Resisted Plantarflexion", TreatmentNotes:"-Avoid compression insertion via dorsiflexion\n-Volume before speed\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Single leg calf raise\n-Deficit Single Leg Calf Raiseq\n-Weighted Deficit Single Leg Calf Raise\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Flexor Hallucis Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted hallucis flexion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Hallucis flexion isometric\n-Hallucis flexion banded\n-Medial Biased Calf Raise\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Flexor Hallucis Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted hallucis flexion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Hallucis flexion isometric\n-Hallucis flexion banded\n-Medial Biased Calf Raise\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Tibialis Posterior Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted inversion + plantarflexion", TreatmentNotes:"-Avoid compression by avoiding painful pronation\n-Temporary arch support?\n-Volume before speed\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Reverse lunge\n-Single leg box squat\n-Single leg stand with band pulled laterally", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Tibialis Posterior Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted inversion + plantarflexion", TreatmentNotes:"-Avoid compression by avoiding painful pronation\n-Temporary arch support?\n-Volume before speed\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Reverse lunge\n-Single leg box squat\n-Single leg stand with band pulled laterally", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Flexor Digitorum Tenosynovitis", Tissue:"Tendon", KeyDiagnosticTests:"-Sudden onset\n-Painful palpation\n-Painful passive toe extension\n-Resisted toe flexion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Toe flexion isometric\n-Toe flexion banded\n-Medial Biased Calf Raise\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Extensor Hallucis Longus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Painful passive toe flexion\n-Resisted toe extension", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Hallucis extension isometric\n-Toe extension banded\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Tibialis Anterior Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Painful passive ankle plantarflexion and inversion\n-Resisted dorsiflexion and eversion", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Banded Ankle Dorsiflexion\n-Ankle Bounces Toes Up\n-A-Skips Toes Up", Program:"minorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Extensor Digitorum Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Painful passive toes flexion\n-Resisted toes extension", TreatmentNotes:"-Activity modification\n-Assess footwear for tight toe box\n-Avoid compression via toe flexion\n-Flat before hills\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Hallucis extension isometric\n-Toe extension banded\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Quadriceps Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful Injury\n-Resisted knee extension at 120 degrees flexion", TreatmentNotes:"-Avoid compressing tendon via deep squats or excessive knee flexion\n-Avoid classic quadriceps stretch\n-Volume before speed\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Banded Straight Leg Raise\n-Single Leg Squat + Deficit\n-Bilateral Depth Drop\n-Single Leg Depth Drop\n-Downhill Running", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Anterior Knee Pain", Pathology:"Patellar Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful Palpation\n-Resisted knee extension at 30  degrees flexion", TreatmentNotes:"-Downhill running may be an aggravating factor \n-Volume before speed\n-2/10 pain and resolution of symptoms within 60 min of run", Exercises:"-Knee extension + Deep Flexion\n-Decline squats\n-Split Squats\n-A-skip\n-Bounding\n-Downhill Running", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Medial Knee Pain", Pathology:"Pes anserine Tendinopathy and Bursaopathy", Tissue:"Mixed", KeyDiagnosticTests:"-Over diagnosed look for other medial knee pain causes\n-Resisted tests for sartorius, gracilis and semitendinosus\n-Painful Palpation", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-0/10 pain before progressing\n-Volume before speed", Exercises:"-Hip adduction\n-Prone Knee Flexion\n-Hip abduction\n-Lateral Step Downs\n-Downhill running", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Biceps Femoris Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted knee flexion", TreatmentNotes:"-0/10 pain before progressing\n-Volume before speed\n-Emphasis on loading and plyometrics", Exercises:"-Prone knee bend + band\n-Long Lever Bridge\n-Nordics", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Semitendinosis/Semimembranosus Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted knee flexion", TreatmentNotes:"-0/10 pain before progressing\n-Volume before speed\n-Emphasis on loading and plyometrics", Exercises:"-Prone knee bend + band\n-Long Lever Bridge\n-Nordics", Program:"minorInjury"},
+  {Region:"Knee", Subregion:"Lateral Knee Pain", Pathology:"Iliotibial Band Syndrome", Tissue:"Mixed", KeyDiagnosticTests:"-Running history: downhills, volume\n-Painful palpation\n-Nobel's Test", TreatmentNotes:"-Walk/Run Intervals\n-0/10 pain before progression\n-Assess stride for hip adduction\n-Speed before volume\n-Avoid unidirectional runs\n-Progress to downhill", Exercises:"-Exercises helpful for desensitization\n-Hip abduction\n-Lateral step downs", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Rectus Femoris Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted Hip Flexion + Knee Extension", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-Volume before speed\n-2/10 pain before progression", Exercises:"-Supine banded straight leg raise\n-Standing banded SLR\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Iliopsoas Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted Hip Flexion + Knee Flexion", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-Volume before speed\n-2/10 pain before progression", Exercises:"-Supine banded hip flexion\n-Standing banded hip flexion\n-Prone banded hip flexion\n-A-Skip\n-Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Adductor Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Diagnosis may include sartorius, adductor brevis/longus/magnus and pectineus\n-Resisted hip adduction\n-Painful palpation", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-Volume before speed\n-2/10 pain", Exercises:"- Side Lying Hip adduction\n-Copenhagen Plank\n-Lateral Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Gluteal Medius Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted Hip Abduction\n-Single Leg Stance", TreatmentNotes:"-Avoid compressing tendon via adduction\n-Assess stride for provocative hip adduction\n-2/10 pain\n-Volume before speed", Exercises:"-Side lying abduction with band\n-Banded Crab Walks\n-Lateral Leg Slide with Weight\n-Running Drills\n-Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Proximal Iliotibial Fasciopathy", Tissue:"Fascia", KeyDiagnosticTests:"-Running history: downhills, volume\n-Painful palpation", TreatmentNotes:"-Walk/Run Intervals\n-0/10 pain\n-Assess stride for hip adduction\n-Speed before volume\n-Avoid unidirectional runs\n-Progress to downhill", Exercises:"-Exercises helpful for desensitization\n-Hip abduction\n-Lateral step downs", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Iliotibial Band Syndrome", Tissue:"Mixed", KeyDiagnosticTests:"-Running history: downhills, volume\n-Painful palpation\n-Nobel's Test", TreatmentNotes:"-Walk/Run Intervals\n-0/10 pain\n-Assess stride for hip adduction\n-Speed before volume\n-Avoid unidirectional runs\n-Progress to downhill", Exercises:"-Exercises helpful for desensitization\n-Hip abduction\n-Lateral step downs", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Enthesopathy at inguinal ligament insertion", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted hip adduction, flexion", TreatmentNotes:"-Overstriding and hills may be a pain generator\n-Assess and see if changes in running form improve pain\n-Volume before speed\n-2/10 pain", Exercises:"-Supine banded hip flexion\n-Standing banded hip flexion\n-Prone banded hip flexion", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Adductor Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted hip adduction", TreatmentNotes:"-Avoid compression via groin stretching\n-Assess and see if changes in running form improve pain\n-Volume before speed\n-2/10 pain", Exercises:"- Side Lying Hip adduction\n-Copenhagen Plank\n-Lateral Bounding", Program:"minorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"Rectus Abdominis Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Painful palpation\n-Resisted trunk flexion", TreatmentNotes:"-Avoid sit-ups, crunches, bicycle crunches, heavy lifting initially\n-Overstriding and hills may be a pain generator\n-2/10 pain\n-Volume before speed", Exercises:"-Diaphragmatic Breathing\n-Plank\n-Side Plank", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Posterior Hip", Pathology:"Proximal Hamstring Tendinopathy", Tissue:"Tendon", KeyDiagnosticTests:"-Running history: hills, speed, hamstring stretch is painful\n-Painful palpation on ischial tuberosity\n-Resisted hip extension + 90 degree knee bend", TreatmentNotes:"-Avoid activities that compress the insertional tendon in deep hip flexion: hill sprints, deep squats, lunges, RDLs\n-Progress with volume, then speed, then hills\n-Donut cushion for pain control", Exercises:"-Prone knee bend banded\n-Long lever bridge\n-Foot elevated bridge\n-Romanian Deadlift\n-Bounding\n-A skips", Program:"minorInjury"},
+  {Region:"Foot", Subregion:"Dorsal Foot", Pathology:"Venous stasis/claudication", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Calcaneal anastomosis artery and veins", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Plantar Heel", Pathology:"Medial and lateral plantar arteries and veins", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Foot", Subregion:"Posterior Heel Pain", Pathology:"Arterial venous calcaneal anastomoses", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Anterolateral Leg", Pathology:"Venous insufficiency, atheroma, iliac artery endofibrosis", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Deep vein thrombosis, venous insufficiency, atheroma, iliac artery endofibrosis", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Popliteal artery entrapment", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Popliteal artery", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"External iliac artery, deep and superficial femoral arteries, circumflex artery", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Thigh", Pathology:"Deep + superficial femoral arteries", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Lateral Hip", Pathology:"Superior and inferior gluteal arteries, circumflex artery", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Pubalgia", Pathology:"External iliac artery, deep and superficial femoral arteries, circumflex artery", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Leg", Subregion:"Posteromedial Leg", Pathology:"Arterial venous calcaneal anastomoses", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"Venous insufficiency, atheroma, iliac artery endofibrosis", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Various", Subregion:"Various Details", Pathology:"Deep vein thrombosis", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Knee", Subregion:"Posterior Knee Pain", Pathology:"Popliteal artery entrapment", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"},
+  {Region:"Hip & Groin", Subregion:"Anterior Hip", Pathology:"External iliac artery, deep and superficial femoral arteries, circumflex artery", Tissue:"Vascular", KeyDiagnosticTests:"-Out of scope for physios.\n-You can probably perform an ankle-brachial index test on a treadmill until symptomatic and record the pre-post blood pressures.", TreatmentNotes:"- Refer to Sports Med who may refer to Vascular Surgery.\n-If surgery is indeed not an option, reduce intensity build volume.\n-Reorienting client goals is important to preserve limb integrity and quality of life.", Exercises:"", Program:"majorInjury"}
+];
